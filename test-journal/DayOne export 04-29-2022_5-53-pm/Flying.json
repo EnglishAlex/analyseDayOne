@@ -1,0 +1,2077 @@
+{
+"metadata" : {
+  "version" : "1.0"
+},
+"entries" : [
+{
+  "creationDeviceModel" : "iPhone10,2",
+  "creationOSName" : "iOS",
+  "sourceString" : "visit-650B4696-FF35-4C7C-995F-05968122C105",
+  "creationDevice" : "Alex’s iPhone",
+  "uuid" : "D07FAE6FF5174F549B3E934192EB6C8A",
+  "creationDate" : "2019-01-20T11:00:50Z",
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":558}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Biggin Hill \\n\"},{\"text\":\"\\nToday's main activity -  Drove to Biggin Hill airport and and check out EFG Flying School.\\n\"},{\"attributes\":{\"line\":{\"listStyle\":\"bulleted\",\"indentLevel\":1,\"header\":0}},\"text\":\"School had 7 Piper Warrior PA28 planes.\\n\"},{\"attributes\":{\"line\":{\"listStyle\":\"bulleted\",\"indentLevel\":1,\"header\":0}},\"text\":\"Looks like they were all built in the 1980s\\n\"},{\"attributes\":{\"line\":{\"listStyle\":\"bulleted\",\"indentLevel\":1,\"header\":0}},\"text\":\"Avionics looks quite ‘mechanical’ - no glass cockpits here!\\n\"},{\"attributes\":{\"line\":{\"listStyle\":\"bulleted\",\"indentLevel\":1,\"header\":0}},\"text\":\"I paid £959 for 5 hours of flying lessons.\\n\"},{\"attributes\":{\"line\":{\"listStyle\":\"bulleted\",\"indentLevel\":1,\"header\":0}},\"text\":\"up to me to set a time and actually start flying.\\n\"},{\"embeddedObjects\":[{\"type\":\"photo\",\"identifier\":\"C3D4418630414F389D322C8968605B96\"}]}]}",
+  "editingTime" : 0,
+  "isAllDay" : false,
+  "creationDeviceType" : "iPhone",
+  "modifiedDate" : "2021-01-02T18:03:45Z",
+  "duration" : 0,
+  "starred" : false,
+  "creationOSVersion" : "12.1.2",
+  "timeZone" : "Europe\/London",
+  "isPinned" : false,
+  "text" : "# Biggin Hill \n\nToday's main activity \\-  Drove to Biggin Hill airport and and check out EFG Flying School\\.\n- School had 7 Piper Warrior PA28 planes\\.\n- Looks like they were all built in the 1980s\n- Avionics looks quite ‘mechanical’ \\- no glass cockpits here\\!\n- I paid £959 for 5 hours of flying lessons\\.\n- up to me to set a time and actually start flying\\.\n\n![](dayone-moment:\/\/C3D4418630414F389D322C8968605B96)",
+  "photos" : [
+    {
+      "fileSize" : 215668,
+      "orderInEntry" : 0,
+      "duration" : 0,
+      "favorite" : false,
+      "type" : "png",
+      "identifier" : "C3D4418630414F389D322C8968605B96",
+      "date" : "2020-08-12T22:23:12Z",
+      "height" : 283,
+      "fnumber" : "(null)",
+      "width" : 542,
+      "md5" : "db988f00c163b4253f65c2ad8b978323",
+      "isSketch" : false,
+      "focalLength" : "(null)"
+    }
+  ]
+},
+{
+  "editingTime" : 0,
+  "isPinned" : false,
+  "uuid" : "4FF33F229FFB4F15B62DFC15FE01C156",
+  "creationDeviceModel" : "iPhone10,2",
+  "creationOSVersion" : "12.1.2",
+  "starred" : false,
+  "creationDevice" : "Alex’s iPhone",
+  "richText" : "{\"contents\":[{\"text\":\"Let’s start flying \\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"\\n\"},{\"text\":\"Paid up £950 for five hours of flying lessons \\n\\n\\nEFG Flying school Biggin Hill airport \\n\\n\\nPiper Warrior PA28. Old “steam gauge” instruments.  Looks very 1990s, even 80s.   \"}],\"meta\":{\"version\":1}}",
+  "creationDate" : "2019-01-20T13:45:53Z",
+  "isAllDay" : false,
+  "creationOSName" : "iOS",
+  "duration" : 0,
+  "weather" : {
+    "sunsetDate" : "2019-01-20T16:29:17Z",
+    "temperatureCelsius" : 4,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 10,
+    "sunriseDate" : "2019-01-20T07:52:45Z",
+    "conditionsDescription" : "Mostly Sunny",
+    "pressureMB" : 1019,
+    "visibilityKM" : 48.280319213867188,
+    "relativeHumidity" : 70,
+    "windSpeedKPH" : 11,
+    "weatherCode" : "partly-cloudy",
+    "windChillCelsius" : 1
+  },
+  "modifiedDate" : "2021-01-02T18:00:29Z",
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 1314
+  },
+  "timeZone" : "Europe\/London",
+  "text" : "# Let’s start flying \n\nPaid up £950 for five hours of flying lessons \n\n\nEFG Flying school Biggin Hill airport \n\n\nPiper Warrior PA28\\. Old “steam gauge” instruments\\.  Looks very 1990s, even 80s\\.  ",
+  "creationDeviceType" : "iPhone",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : 0.035398200154304504,
+        "latitude" : 51.325714111328125
+      },
+      "radius" : 75
+    },
+    "localityName" : "Westerham",
+    "country" : "United Kingdom",
+    "longitude" : 0.035398200154304504,
+    "administrativeArea" : "England",
+    "placeName" : "E F G Flying School",
+    "latitude" : 51.325714111328125
+  }
+},
+{
+  "modifiedDate" : "2021-01-02T18:00:29Z",
+  "editingTime" : 0,
+  "creationDeviceType" : "iPhone",
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 284
+  },
+  "duration" : 0,
+  "creationDevice" : "Alex’s iPhone",
+  "creationDate" : "2019-01-29T07:50:34Z",
+  "creationOSName" : "iOS",
+  "creationDeviceModel" : "iPhone10,2",
+  "isPinned" : false,
+  "text" : "# Learning to fly \nIt's probably going to be better to separate my learning to fly experiences from my general journal\\. ",
+  "richText" : "{\"meta\":{\"small-lines-removed\":true,\"created\":{\"version\":558,\"platform\":\"com.bloombuilt.dayone-ios\"},\"version\":1},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Learning to fly \\n\"},{\"text\":\"It's probably going to be better to separate my learning to fly experiences from my general journal.  \"}]}",
+  "starred" : false,
+  "isAllDay" : false,
+  "creationOSVersion" : "12.1.2",
+  "timeZone" : "Europe\/London",
+  "uuid" : "8D6E318EAB8F4FBA97104A329AF9F9AA"
+},
+{
+  "uuid" : "3B9A84DDA3D7411CB0D8DB0FECEB21BF",
+  "creationOSName" : "iOS",
+  "photos" : [
+    {
+      "fileSize" : 403984,
+      "orderInEntry" : 0,
+      "duration" : 0,
+      "favorite" : false,
+      "type" : "jpeg",
+      "identifier" : "14DE99D4FC0041B4BAB3B63337785958",
+      "date" : "2019-01-29T08:07:04Z",
+      "height" : 767,
+      "fnumber" : "(null)",
+      "width" : 1116,
+      "md5" : "ce32f0492bdcccdca42812bd335e7183",
+      "isSketch" : false,
+      "focalLength" : "(null)"
+    }
+  ],
+  "timeZone" : "Europe\/London",
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 284
+  },
+  "creationDeviceModel" : "iPhone10,2",
+  "isPinned" : false,
+  "duration" : 0,
+  "creationDate" : "2019-01-29T07:58:14Z",
+  "text" : "What's an FIR\n\nFIR \\-Flying Information Region\nUIR \\- Upper Information Region\n\nThe globe is divided into FIR and the UK has 3 all run by the CAA\n- FIR London \n- FIR Scotland\n- FIR Shanwick Oceanic\n\n![](dayone-moment:\/\/14DE99D4FC0041B4BAB3B63337785958)\n\nSource: NATS website\nhttps:\/\/nats\\.aero\/blog\/2017\/04\/airspace\\-explorer\\-hidden\\-secrets\\-uk\\-airspace\\-revealed\/",
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":558}},\"contents\":[{\"text\":\"What's an FIR\\n\\nFIR -Flying Information Region\\nUIR - Upper Information Region\\n\\nThe globe is divided into FIR and the UK has 3 all run by the CAA\\n\"},{\"attributes\":{\"line\":{\"listStyle\":\"bulleted\",\"indentLevel\":1,\"header\":0}},\"text\":\"FIR London \\n\"},{\"attributes\":{\"line\":{\"listStyle\":\"bulleted\",\"indentLevel\":1,\"header\":0}},\"text\":\"FIR Scotland\\n\"},{\"attributes\":{\"line\":{\"listStyle\":\"bulleted\",\"indentLevel\":1,\"header\":0}},\"text\":\"FIR Shanwick Oceanic\\n\"},{\"embeddedObjects\":[{\"type\":\"photo\",\"identifier\":\"14DE99D4FC0041B4BAB3B63337785958\"}]},{\"text\":\"\\nSource: NATS website\\n\"},{\"attributes\":{\"autolink\":true},\"text\":\"https:\\\/\\\/nats.aero\\\/blog\\\/2017\\\/04\\\/airspace-explorer-hidden-secrets-uk-airspace-revealed\\\/\"}]}",
+  "creationDevice" : "Alex’s iPhone",
+  "starred" : false,
+  "modifiedDate" : "2021-01-02T18:03:47Z",
+  "editingTime" : 0,
+  "creationDeviceType" : "iPhone",
+  "isAllDay" : false,
+  "creationOSVersion" : "12.1.2"
+},
+{
+  "isPinned" : false,
+  "editingTime" : 0,
+  "creationDeviceModel" : "iPhone10,2",
+  "creationOSVersion" : "12.1.2",
+  "starred" : false,
+  "creationDevice" : "Alex’s iPhone",
+  "richText" : "{\"meta\":{\"small-lines-removed\":true,\"created\":{\"version\":558,\"platform\":\"com.bloombuilt.dayone-ios\"},\"version\":1},\"contents\":[{\"text\":\"Classes of Air Space\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"\\nACDEG\\nA is the strictest G seems to be what ever goes but be safe.\\n\\nB and F no longer used\\n\\n\\nSource NATS website\\n\"},{\"attributes\":{\"autolink\":true},\"text\":\"https:\\\/\\\/nats.aero\\\/blog\\\/2017\\\/05\\\/hidden-secrets-uk-airspace-airspace-classifications\\\/\"}]}",
+  "creationDate" : "2019-01-29T08:11:24Z",
+  "isAllDay" : false,
+  "creationOSName" : "iOS",
+  "duration" : 0,
+  "modifiedDate" : "2021-01-02T18:00:29Z",
+  "timeZone" : "Europe\/London",
+  "uuid" : "23310C7EC88A4E1FB0E28B8FA980CF4D",
+  "text" : "# Classes of Air Space\n\nACDEG\nA is the strictest G seems to be what ever goes but be safe\\.\n\nB and F no longer used\n\n\nSource NATS website\nhttps:\/\/nats\\.aero\/blog\/2017\/05\/hidden\\-secrets\\-uk\\-airspace\\-airspace\\-classifications\/",
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 394
+  },
+  "creationDeviceType" : "iPhone"
+},
+{
+  "duration" : 0,
+  "creationDate" : "2019-02-17T18:45:16Z",
+  "photos" : [
+    {
+      "fileSize" : 808299,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : 0.028511166572599222,
+            "latitude" : 51.322051993144925
+          },
+          "identifier" : "<+51.32205199,+0.02851117> radius 141.62",
+          "radius" : 141.61574358597787
+        },
+        "localityName" : "Westerham",
+        "country" : "United Kingdom",
+        "timeZoneName" : "Europe\/London",
+        "administrativeArea" : "England",
+        "longitude" : 0.028511166572570801,
+        "placeName" : "London Biggin Hill Airport",
+        "latitude" : 51.322052001953125
+      },
+      "orderInEntry" : 0,
+      "creationDevice" : "iPad",
+      "duration" : 0,
+      "favorite" : false,
+      "type" : "jpeg",
+      "identifier" : "817A0C07A4D046BFAC3731FB06B041FD",
+      "date" : "2022-03-21T14:13:04Z",
+      "height" : 2048,
+      "fnumber" : "(null)",
+      "width" : 2048,
+      "md5" : "9d6326d02acecac9d0e34e0d5e170376",
+      "isSketch" : false,
+      "focalLength" : "(null)"
+    },
+    {
+      "fileSize" : 350587,
+      "orderInEntry" : 1,
+      "creationDevice" : "iPad",
+      "duration" : 0,
+      "favorite" : false,
+      "type" : "png",
+      "identifier" : "6FA2F2CF0D21468D92EB5E65B0E86969",
+      "date" : "2022-03-21T14:13:03Z",
+      "height" : 432,
+      "fnumber" : "(null)",
+      "width" : 632,
+      "md5" : "dbd60dc9b642084942a017d2536c0026",
+      "isSketch" : false,
+      "focalLength" : "(null)"
+    }
+  ],
+  "isPinned" : false,
+  "modifiedDate" : "2022-03-21T14:13:12Z",
+  "weather" : {
+    "sunsetDate" : "2019-02-17T17:19:06Z",
+    "temperatureCelsius" : 9,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 200,
+    "sunriseDate" : "2019-02-17T07:08:40Z",
+    "conditionsDescription" : "Partly Cloudy",
+    "pressureMB" : 1016,
+    "visibilityKM" : 48.280319213867188,
+    "relativeHumidity" : 94,
+    "windSpeedKPH" : 17,
+    "weatherCode" : "cloudy-night",
+    "windChillCelsius" : 7
+  },
+  "creationOSName" : "macOS",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : 0.028511166572570801,
+        "latitude" : 51.322052001953125
+      },
+      "radius" : 75
+    },
+    "localityName" : "Westerham",
+    "country" : "United Kingdom",
+    "longitude" : 0.028511166572570801,
+    "administrativeArea" : "England",
+    "placeName" : "London Biggin Hill Airport",
+    "latitude" : 51.322052001953125
+  },
+  "starred" : false,
+  "userActivity" : {
+    "activityName" : "Flying"
+  },
+  "creationOSVersion" : "10.14.2",
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":852}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1,\"identifier\":\"DFF5BA37-EEC0-4821-B395-77F663290DBD\"}},\"text\":\"First Flying lesson\\n\"},{\"attributes\":{\"inlineCode\":true},\"text\":\"G-BRDG 15:35-16:00  Exercise 4(i)\"},{\"attributes\":{},\"text\":\" \"},{\"text\":\"\\n \\nAfter much delay and hesitation today I actually sat in an aircraft and took controls. HUGE brain drain.\\n\\nCouldn’t taxi the aircraft straight yet alone fly straight - confusing time with the rudder pedals to steer the aircraft on the ground.\\n\\nTook Leo with me, glad to have him in the back learning along.\\n\\nFlight cut short as nasty weather came rolling in very quickly.\"},{\"embeddedObjects\":[{\"type\":\"photo\",\"identifier\":\"817A0C07A4D046BFAC3731FB06B041FD\"}]},{\"embeddedObjects\":[{\"type\":\"photo\",\"identifier\":\"6FA2F2CF0D21468D92EB5E65B0E86969\"}]}]}",
+  "uuid" : "1C1318AA26634D278AC0F9A7762D9BFA",
+  "creationDevice" : "Alex’s iMac",
+  "timeZone" : "Europe\/London",
+  "editingTime" : 47.2271728515625,
+  "creationDeviceType" : "iMac",
+  "creationDeviceModel" : "iMac14,3",
+  "text" : "# First Flying lesson\n`G\\-BRDG 15:35\\-16:00  Exercise 4\\(i\\)` \n \nAfter much delay and hesitation today I actually sat in an aircraft and took controls\\. HUGE brain drain\\.\n\nCouldn’t taxi the aircraft straight yet alone fly straight \\- confusing time with the rudder pedals to steer the aircraft on the ground\\.\n\nTook Leo with me, glad to have him in the back learning along\\.\n\nFlight cut short as nasty weather came rolling in very quickly\\.\n\n![](dayone-moment:\/\/817A0C07A4D046BFAC3731FB06B041FD)\n\n![](dayone-moment:\/\/6FA2F2CF0D21468D92EB5E65B0E86969)",
+  "tags" : [
+    "Event"
+  ],
+  "isAllDay" : false
+},
+{
+  "uuid" : "7C920540D729485F94E7627DB9D0A79C",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : 0.028580499812960625,
+        "latitude" : 51.321846008300781
+      },
+      "radius" : 75
+    },
+    "localityName" : "Westerham",
+    "country" : "United Kingdom",
+    "longitude" : 0.028580499812960625,
+    "administrativeArea" : "England",
+    "placeName" : "London Biggin Hill Airport",
+    "latitude" : 51.321846008300781
+  },
+  "creationOSName" : "macOS",
+  "photos" : [
+    {
+      "fileSize" : 938994,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : 0.028580499812960625,
+            "latitude" : 51.321845999492652
+          },
+          "identifier" : "<+51.32184600,+0.02858050> radius 141.62",
+          "radius" : 141.61574517167381
+        },
+        "localityName" : "Westerham",
+        "country" : "United Kingdom",
+        "timeZoneName" : "Europe\/London",
+        "administrativeArea" : "England",
+        "longitude" : 0.028580499812960625,
+        "placeName" : "London Biggin Hill Airport",
+        "latitude" : 51.321846008300781
+      },
+      "orderInEntry" : 0,
+      "duration" : 0,
+      "favorite" : false,
+      "type" : "jpeg",
+      "identifier" : "D57737513F924A4CBE680D7E02A10065",
+      "height" : 2048,
+      "fnumber" : "(null)",
+      "width" : 2048,
+      "md5" : "ffa8461869f3a9f609f2107cbe416dce",
+      "isSketch" : false,
+      "focalLength" : "(null)"
+    }
+  ],
+  "timeZone" : "Europe\/London",
+  "userActivity" : {
+    "activityName" : "Flying"
+  },
+  "creationDeviceModel" : "iMac14,3",
+  "isPinned" : false,
+  "duration" : 0,
+  "creationDate" : "2019-02-27T17:10:53Z",
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":558}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Second flight.\\n\"},{\"attributes\":{\"inlineCode\":true},\"text\":\"G-BTDV 11:25-12:30  Exercise 4(i) & 4(ii)\"},{\"text\":\" \"},{\"text\":\"\\nWith the weather looking good I took the day off to have my second flying lesson.\\n\\nToady I learned about ..\\n\"},{\"attributes\":{\"line\":{\"header\":2}},\"text\":\"doing the ‘A-Check’\\n\"},{\"text\":\" - how to walk around the plane and confirm the air craft is fit to fly. Check for water in the fuel supply, check oil, control surfaces all working as expected. \\n\"},{\"attributes\":{\"line\":{\"header\":2}},\"text\":\"Taxing practice\\n\"},{\"text\":\"Driving the aircraft on the ground was less of a panic .  Keeping the aircraft on the yellow centre line even when that line swerved was easier.  \\n\"},{\"attributes\":{\"line\":{\"header\":2}},\"text\":\"The flight \\n\"},{\"text\":\"Exercise 4\\nSections 4i and 4ii\\nUsing the flaps, trimming, feeling the effects of controls and reacting to keep straight and level.\\n\\n\"},{\"embeddedObjects\":[{\"type\":\"photo\",\"identifier\":\"D57737513F924A4CBE680D7E02A10065\"}]}]}",
+  "text" : "# Second flight\\.\n`G\\-BTDV 11:25\\-12:30  Exercise 4\\(i\\) & 4\\(ii\\)` \nWith the weather looking good I took the day off to have my second flying lesson\\.\n\nToady I learned about \\.\\.\n## doing the ‘A\\-Check’\n \\- how to walk around the plane and confirm the air craft is fit to fly\\. Check for water in the fuel supply, check oil, control surfaces all working as expected\\. \n## Taxing practice\nDriving the aircraft on the ground was less of a panic \\.  Keeping the aircraft on the yellow centre line even when that line swerved was easier\\.  \n## The flight \nExercise 4\nSections 4i and 4ii\nUsing the flaps, trimming, feeling the effects of controls and reacting to keep straight and level\\.\n\n\n![](dayone-moment:\/\/D57737513F924A4CBE680D7E02A10065)",
+  "creationDevice" : "Alex’s iMac",
+  "starred" : false,
+  "modifiedDate" : "2021-01-02T18:03:51Z",
+  "editingTime" : 0,
+  "creationDeviceType" : "iMac",
+  "isAllDay" : false,
+  "weather" : {
+    "sunsetDate" : "2019-02-27T17:36:56Z",
+    "temperatureCelsius" : 14,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 210,
+    "sunriseDate" : "2019-02-27T06:48:14Z",
+    "conditionsDescription" : "Mostly Sunny",
+    "pressureMB" : 1022,
+    "visibilityKM" : 11.265407562255859,
+    "relativeHumidity" : 59,
+    "windSpeedKPH" : 11,
+    "weatherCode" : "partly-cloudy",
+    "windChillCelsius" : 14
+  },
+  "creationOSVersion" : "10.14.2"
+},
+{
+  "tags" : [
+    "Grounded"
+  ],
+  "creationDeviceModel" : "iPhone10,2",
+  "creationOSName" : "iOS",
+  "sourceString" : "visit-074B89F2-7047-458C-BF76-9CCAA7962BDB",
+  "creationDevice" : "Alex’s iPhone",
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 47
+  },
+  "editingTime" : 0,
+  "creationDate" : "2019-03-10T09:00:07Z",
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"version\":558,\"platform\":\"com.bloombuilt.dayone-ios\"}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Strong winds - no flying\\n\"},{\"text\":\"Winds gusting 60mph+ no flying today even though there are no clouds!\\n\\nLesson rescheduled to following .\"}]}",
+  "uuid" : "5C97C283C50D46B0A5E6ADEF71CE093C",
+  "isAllDay" : false,
+  "modifiedDate" : "2021-01-02T18:00:29Z",
+  "creationDeviceType" : "iPhone",
+  "duration" : 0,
+  "starred" : false,
+  "creationOSVersion" : "12.1.4",
+  "timeZone" : "Europe\/London",
+  "isPinned" : false,
+  "text" : "# Strong winds \\- no flying\nWinds gusting 60mph\\+ no flying today even though there are no clouds\\!\n\nLesson rescheduled to following \\."
+},
+{
+  "duration" : 0,
+  "creationDate" : "2019-03-17T10:45:59Z",
+  "photos" : [
+    {
+      "fileSize" : 971747,
+      "orderInEntry" : 1,
+      "duration" : 0,
+      "favorite" : false,
+      "type" : "png",
+      "identifier" : "21FBD54D3C0A44FA9CCDE8D4DC9172E4",
+      "height" : 715,
+      "fnumber" : "(null)",
+      "width" : 601,
+      "md5" : "1c4592d006a827aefb307d88f15c692a",
+      "isSketch" : false,
+      "focalLength" : "(null)"
+    },
+    {
+      "fileSize" : 576418,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : 0.02866666577757826,
+            "latitude" : 51.32197951389692
+          },
+          "identifier" : "<+51.32197951,+0.02866667> radius 141.62",
+          "radius" : 141.61574414485329
+        },
+        "localityName" : "Westerham",
+        "country" : "United Kingdom",
+        "timeZoneName" : "Europe\/London",
+        "administrativeArea" : "England",
+        "longitude" : 0.028666665777564049,
+        "placeName" : "London Biggin Hill Airport",
+        "latitude" : 51.321979522705078
+      },
+      "lensModel" : "iPhone 8 Plus front camera 2.87mm f\/2.2",
+      "orderInEntry" : 0,
+      "duration" : 0,
+      "favorite" : false,
+      "cameraMake" : "Apple",
+      "type" : "jpeg",
+      "lensMake" : "Apple",
+      "identifier" : "E2546C8D98C9430FA6BC637144184409",
+      "date" : "2019-03-17T10:45:59Z",
+      "exposureBiasValue" : 0,
+      "height" : 3088,
+      "fnumber" : "2.2",
+      "width" : 2320,
+      "md5" : "7d8d9ea027892d3063e7af74efdd4b06",
+      "isSketch" : false,
+      "focalLength" : "2.87",
+      "cameraModel" : "iPhone 8 Plus"
+    },
+    {
+      "fileSize" : 365148,
+      "orderInEntry" : 2,
+      "duration" : 0,
+      "favorite" : false,
+      "type" : "png",
+      "identifier" : "1025E7AE626F4F5CB26A483F5B744D79",
+      "height" : 507,
+      "fnumber" : "(null)",
+      "width" : 431,
+      "md5" : "25b78877d32e21c453ef5e3662d3c23d",
+      "isSketch" : false,
+      "focalLength" : "(null)"
+    }
+  ],
+  "isPinned" : false,
+  "creationOSName" : "macOS",
+  "weather" : {
+    "sunsetDate" : "2019-03-17T18:07:54Z",
+    "temperatureCelsius" : 7,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 260,
+    "sunriseDate" : "2019-03-17T06:08:30Z",
+    "conditionsDescription" : "Showers Nearby",
+    "pressureMB" : 1005,
+    "visibilityKM" : 48.280319213867188,
+    "relativeHumidity" : 66,
+    "windSpeedKPH" : 22,
+    "weatherCode" : "partly-cloudy",
+    "windChillCelsius" : 4
+  },
+  "modifiedDate" : "2021-01-02T18:07:06Z",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : 0.028666665777564049,
+        "latitude" : 51.321979522705078
+      },
+      "radius" : 75
+    },
+    "localityName" : "Westerham",
+    "country" : "United Kingdom",
+    "longitude" : 0.028666665777564049,
+    "administrativeArea" : "England",
+    "placeName" : "London Biggin Hill Airport",
+    "latitude" : 51.321979522705078
+  },
+  "starred" : false,
+  "userActivity" : {
+    "activityName" : "Flying"
+  },
+  "creationOSVersion" : "10.14.3",
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":558}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Flight 3 - Straight and Level.\\n\"},{\"attributes\":{\"inlineCode\":true},\"text\":\"G-BSXA 9:40-10:45 Ex5: Taxing  Ex:6(i) Straight & Level\"},{\"text\":\" \"},{\"text\":\"\\n\\n18 days since my last flight. Frustrated not to be making more progress.\\n\\n\\n\"},{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"General feel.\\n\"},{\"text\":\"Windy day.\\nA-Checks a little rushed\\nLots of water in the fuel tank\\nForgotten lots of details\\n\"},{\"attributes\":{\"line\":{\"listStyle\":\"bulleted\",\"indentLevel\":1,\"header\":0}},\"text\":\"hard to find the instruments during checks\\n\"},{\"attributes\":{\"line\":{\"listStyle\":\"bulleted\",\"indentLevel\":1,\"header\":0}},\"text\":\"Operating breaks and other instruments was unfamiliar.\\n\"},{\"text\":\"\\nDon’t need to follow strictly checks ultra strict.\\n(Red marker on wheel\\\/tyre missing. pitot warming not working were ok to ignore yet water in the fuel was a blocker to take off.)\\n\\nConfident taxi to Alpha 1 ( thru A3 and A2)\\nWindy take off with cross wind\\nClimbed to 2000.\\nPracticed keeping straight and level at given ‘Datum’ altitude \\n\"},{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Lesson Focus \\n\"},{\"text\":\"Maintaining  straight & level . \\nPower Attitude Trim\\n\"},{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"High Lights\"},{\"embeddedObjects\":[{\"type\":\"photo\",\"identifier\":\"E2546C8D98C9430FA6BC637144184409\"}]},{\"attributes\":{\"line\":{\"listStyle\":\"bulleted\",\"indentLevel\":1,\"header\":0}},\"text\":\"Saw a falcon bird zoom past \\n\"},{\"attributes\":{\"line\":{\"listStyle\":\"bulleted\",\"indentLevel\":1,\"header\":0}},\"text\":\"Watch for Redhill airport traffic coming from the west. ( relative to Biggin)\\n\"},{\"attributes\":{\"line\":{\"listStyle\":\"bulleted\",\"indentLevel\":1,\"header\":0}},\"text\":\"Cross wind landing- ? Aileron into wind leighward wheel down first? Strong rudder \\n\"},{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Take off and Landing from runway 21\\n\"},{\"text\":\"Very strong cross winds - exciting landing.\"},{\"embeddedObjects\":[{\"type\":\"photo\",\"identifier\":\"21FBD54D3C0A44FA9CCDE8D4DC9172E4\"}]},{\"text\":\"\\n\"},{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Today’s flight \\n\"},{\"text\":\"About 123km over Kent\"},{\"embeddedObjects\":[{\"type\":\"photo\",\"identifier\":\"1025E7AE626F4F5CB26A483F5B744D79\"}]},{\"text\":\"Little air-sick, quite bumpy\\n\\nLanding\\n\\n\\nDon’t chase the needle.  \\nThe normal flight will have gentle oscillation.  Allow a little wobble, don’t chase the needle perusing a perfect line you will never achieve.  \\n\"}]}",
+  "uuid" : "4C3866D68A5E45FFBF03789A734E5850",
+  "creationDevice" : "Alex’s MacBook Air",
+  "timeZone" : "Europe\/London",
+  "sourceString" : "visit-8FA9E3C7-F52D-4B75-92CB-18F18173A97E",
+  "editingTime" : 0,
+  "creationDeviceModel" : "MacBookAir7,2",
+  "creationDeviceType" : "MacBook Air",
+  "text" : "# Flight 3 \\- Straight and Level\\.\n`G\\-BSXA 9:40\\-10:45 Ex5: Taxing  Ex:6\\(i\\) Straight & Level` \n\n18 days since my last flight\\. Frustrated not to be making more progress\\.\n\n\n# General feel\\.\nWindy day\\.\nA\\-Checks a little rushed\nLots of water in the fuel tank\nForgotten lots of details\n- hard to find the instruments during checks\n- Operating breaks and other instruments was unfamiliar\\.\n\nDon’t need to follow strictly checks ultra strict\\.\n\\(Red marker on wheel\/tyre missing\\. pitot warming not working were ok to ignore yet water in the fuel was a blocker to take off\\.\\)\n\nConfident taxi to Alpha 1 \\( thru A3 and A2\\)\nWindy take off with cross wind\nClimbed to 2000\\.\nPracticed keeping straight and level at given ‘Datum’ altitude \n# Lesson Focus \nMaintaining  straight & level \\. \nPower Attitude Trim\n# High Lights\n\n![](dayone-moment:\/\/E2546C8D98C9430FA6BC637144184409)\n\n- Saw a falcon bird zoom past \n- Watch for Redhill airport traffic coming from the west\\. \\( relative to Biggin\\)\n- Cross wind landing\\- ? Aileron into wind leighward wheel down first? Strong rudder \n# Take off and Landing from runway 21\nVery strong cross winds \\- exciting landing\\.\n\n![](dayone-moment:\/\/21FBD54D3C0A44FA9CCDE8D4DC9172E4)\n\n# Today’s flight \nAbout 123km over Kent\n\n![](dayone-moment:\/\/1025E7AE626F4F5CB26A483F5B744D79)\n\nLittle air\\-sick, quite bumpy\n\nLanding\n\n\nDon’t chase the needle\\.  \nThe normal flight will have gentle oscillation\\.  Allow a little wobble, don’t chase the needle perusing a perfect line you will never achieve\\.  ",
+  "isAllDay" : false
+},
+{
+  "duration" : 0,
+  "creationDate" : "2019-03-22T09:36:12Z",
+  "isPinned" : false,
+  "modifiedDate" : "2021-01-02T18:00:29Z",
+  "weather" : {
+    "weatherServiceName" : "Forecast.io",
+    "windBearing" : 218,
+    "visibilityKM" : 8.8760004043579102,
+    "windSpeedKPH" : 15.149999618530273,
+    "relativeHumidity" : 0,
+    "weatherCode" : "clear",
+    "temperatureCelsius" : 9.3000001907348633
+  },
+  "creationOSName" : "iOS",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -0.2147974967956543,
+        "latitude" : 51.376209259033203
+      },
+      "radius" : 75
+    },
+    "localityName" : "Sutton",
+    "country" : "United Kingdom",
+    "longitude" : -0.2147974967956543,
+    "administrativeArea" : "England",
+    "placeName" : "2 Brocks Drive",
+    "latitude" : 51.376209259033203
+  },
+  "starred" : false,
+  "userActivity" : {
+    "activityName" : "Walking",
+    "stepCount" : 153
+  },
+  "creationOSVersion" : "12.1.4",
+  "richText" : "{\"meta\":{\"version\":1,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":558},\"small-lines-removed\":true},\"contents\":[{\"text\":\"No flying today \\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Cloudy weather - disappointing \\n\\n\"}]}",
+  "uuid" : "59F9166AEEE94EF59E9FE0D06DD936D0",
+  "creationDevice" : "Alex’s iPhone",
+  "timeZone" : "Europe\/London",
+  "editingTime" : 0,
+  "creationDeviceType" : "iPhone",
+  "creationDeviceModel" : "iPhone10,2",
+  "text" : "# No flying today \nCloudy weather \\- disappointing \n",
+  "tags" : [
+    "Grounded"
+  ],
+  "isAllDay" : false
+},
+{
+  "duration" : 0,
+  "creationDate" : "2019-04-03T05:49:54Z",
+  "photos" : [
+    {
+      "fileSize" : 1292461,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -0.2147889,
+            "latitude" : 51.376167299999999
+          },
+          "identifier" : "<+51.37616730,-0.21478890> radius 70.76",
+          "radius" : 70.763031810360047
+        },
+        "localityName" : "Sutton",
+        "country" : "United Kingdom",
+        "timeZoneName" : "Europe\/London",
+        "administrativeArea" : "England",
+        "longitude" : -0.21468666195869446,
+        "placeName" : "2 Brocks Drive",
+        "latitude" : 51.376155853271484
+      },
+      "lensModel" : "iPhone 8 Plus back dual camera 3.99mm f\/1.8",
+      "orderInEntry" : 0,
+      "creationDevice" : "Alex’s iMac",
+      "duration" : 0,
+      "favorite" : false,
+      "cameraMake" : "Apple",
+      "type" : "jpeg",
+      "lensMake" : "Apple",
+      "identifier" : "5941533A7C0C4B108AD9DB399C8D27B4",
+      "date" : "2019-04-03T05:49:54Z",
+      "exposureBiasValue" : 0,
+      "height" : 1607,
+      "fnumber" : "1.8",
+      "width" : 3880,
+      "md5" : "f6ef35407307f5ae8a1798eed2c249df",
+      "isSketch" : false,
+      "focalLength" : "3.99",
+      "cameraModel" : "iPhone 8 Plus"
+    }
+  ],
+  "isPinned" : false,
+  "weather" : {
+    "weatherServiceName" : "Forecast.io",
+    "windBearing" : 298,
+    "visibilityKM" : 4.9089999198913574,
+    "windSpeedKPH" : 5.5100002288818359,
+    "relativeHumidity" : 0,
+    "weatherCode" : "clear",
+    "temperatureCelsius" : 1.6699999570846558
+  },
+  "creationOSName" : "macOS",
+  "modifiedDate" : "2021-01-02T18:04:01Z",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -0.2147974967956543,
+        "latitude" : 51.376209259033203
+      },
+      "radius" : 75
+    },
+    "localityName" : "Sutton",
+    "country" : "United Kingdom",
+    "longitude" : -0.2147974967956543,
+    "administrativeArea" : "England",
+    "placeName" : "2 Brocks Drive",
+    "latitude" : 51.376209259033203
+  },
+  "starred" : false,
+  "creationOSVersion" : "10.14.6",
+  "uuid" : "1BC8420DCEFE4CA787D8108E7C11A107",
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1124}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Logbook - 3 flights\"},{\"embeddedObjects\":[{\"type\":\"photo\",\"identifier\":\"5941533A7C0C4B108AD9DB399C8D27B4\"}]}]}",
+  "creationDevice" : "Alex’s iMac",
+  "timeZone" : "Europe\/London",
+  "editingTime" : 0,
+  "creationDeviceType" : "iMac",
+  "creationDeviceModel" : "iMac14,3",
+  "text" : "# Logbook \\- 3 flights\n\n![](dayone-moment:\/\/5941533A7C0C4B108AD9DB399C8D27B4)",
+  "isAllDay" : false
+},
+{
+  "duration" : 0,
+  "creationDate" : "2019-04-07T09:22:30Z",
+  "photos" : [
+    {
+      "fileSize" : 65499,
+      "orderInEntry" : 0,
+      "creationDevice" : "Alex’s MacBook Air",
+      "duration" : 0,
+      "favorite" : false,
+      "type" : "png",
+      "identifier" : "63D1E6F1C3F347D3A1DF477B9A3575A1",
+      "height" : 389,
+      "fnumber" : "(null)",
+      "width" : 1033,
+      "md5" : "d9425f154ea5cd4f6e9695f254edab3d",
+      "isSketch" : false,
+      "focalLength" : "(null)"
+    }
+  ],
+  "isPinned" : false,
+  "creationOSName" : "macOS",
+  "weather" : {
+    "sunsetDate" : "2019-04-07T18:42:51Z",
+    "temperatureCelsius" : 7,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 10,
+    "sunriseDate" : "2019-04-07T05:21:10Z",
+    "conditionsDescription" : "Fog",
+    "pressureMB" : 1007,
+    "visibilityKM" : 0.10000000149011612,
+    "relativeHumidity" : 100,
+    "windSpeedKPH" : 11,
+    "weatherCode" : "fog",
+    "windChillCelsius" : 5
+  },
+  "modifiedDate" : "2021-01-02T18:03:48Z",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -0.21460659801959991,
+        "latitude" : 51.376190185546875
+      },
+      "radius" : 75
+    },
+    "localityName" : "Sutton",
+    "country" : "United Kingdom",
+    "longitude" : -0.21460659801959991,
+    "administrativeArea" : "England",
+    "placeName" : "471 Gander Green Lane",
+    "latitude" : 51.376190185546875
+  },
+  "starred" : false,
+  "creationOSVersion" : "10.14.4",
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":558}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"No flying today\\n\"},{\"text\":\"Disappointed, no flying today -  fog on the  run way.\\n\\nEGKB’s METAR\\n\"},{\"attributes\":{\"autolink\":true},\"text\":\"https:\\\/\\\/www.metoffice.gov.uk\\\/premium\\\/generalaviation\\\/#\\\/airportDetails\\\/EGKB#airportDetailsTop\"},{\"embeddedObjects\":[{\"type\":\"photo\",\"identifier\":\"63D1E6F1C3F347D3A1DF477B9A3575A1\"}]},{\"attributes\":{\"line\":{\"header\":2}},\"text\":\"I should learn all the various METAR code words.\\n\"},{\"attributes\":{\"line\":{\"indentLevel\":1,\"quote\":true,\"header\":0}},\"text\":\"METAR EGKB 070850Z 01006KT 0100 R21\\\/0200\"},{\"attributes\":{\"line\":{\"indentLevel\":1,\"quote\":true,\"header\":0},\"bold\":true},\"text\":\" FG VV\\\/\\\/\\\/ \"},{\"attributes\":{\"line\":{\"indentLevel\":1,\"quote\":true,\"header\":0}},\"text\":\"07\\\/07 Q1007= \\n\"},{\"attributes\":{\"line\":{\"indentLevel\":1,\"quote\":true,\"header\":0}},\"text\":\"Wind Speed:     6kt \\n\"},{\"attributes\":{\"line\":{\"indentLevel\":1,\"quote\":true,\"header\":0}},\"text\":\"Wind Gust:  - \\n\"},{\"attributes\":{\"line\":{\"indentLevel\":1,\"quote\":true,\"header\":0}},\"text\":\"Wind Direction:     010° \\n\"},{\"attributes\":{\"line\":{\"indentLevel\":1,\"quote\":true,\"header\":0}},\"text\":\"Visibility:     100m \\n\"},{\"attributes\":{\"line\":{\"indentLevel\":1,\"quote\":true,\"header\":0},\"bold\":true},\"text\":\"Cloud:  VV\\\/\\\/\\\/ \"},{\"attributes\":{\"line\":{\"indentLevel\":1,\"quote\":true,\"header\":0}},\"text\":\"\\n\"},{\"attributes\":{\"line\":{\"indentLevel\":1,\"quote\":true,\"header\":0},\"bold\":true},\"text\":\"Weather:    FG \"},{\"attributes\":{\"line\":{\"indentLevel\":1,\"quote\":true,\"header\":0}},\"text\":\"\\n\"},{\"attributes\":{\"line\":{\"indentLevel\":1,\"quote\":true,\"header\":0}},\"text\":\"RVR:    21: 200m \\n\"},{\"attributes\":{\"line\":{\"indentLevel\":1,\"quote\":true,\"header\":0}},\"text\":\"QNH:    1007hPa \\n\"},{\"attributes\":{\"line\":{\"indentLevel\":1,\"quote\":true,\"header\":0}},\"text\":\"Surface Temp:   7°C \\n\"},{\"attributes\":{\"line\":{\"indentLevel\":1,\"quote\":true,\"header\":0}},\"text\":\"Dew Point:  7°C \\n\"},{\"text\":\"\\n\\n \"}]}",
+  "uuid" : "979655B64A984141A69C53DCCB27CF86",
+  "creationDevice" : "Alex’s MacBook Air",
+  "timeZone" : "Europe\/London",
+  "editingTime" : 0,
+  "creationDeviceType" : "MacBook Air",
+  "creationDeviceModel" : "MacBookAir7,2",
+  "text" : "# No flying today\nDisappointed, no flying today \\-  fog on the  run way\\.\n\nEGKB’s METAR\nhttps:\/\/www\\.metoffice\\.gov\\.uk\/premium\/generalaviation\/#\/airportDetails\/EGKB#airportDetailsTop\n\n![](dayone-moment:\/\/63D1E6F1C3F347D3A1DF477B9A3575A1)\n\n## I should learn all the various METAR code words\\.\n> METAR EGKB 070850Z 01006KT 0100 R21\/0200 ​**FG VV\/\/\/**​ 07\/07 Q1007= \n> Wind Speed:     6kt \n> Wind Gust:  \\- \n> Wind Direction:     010° \n> Visibility:     100m \n> **Cloud:  VV\/\/\/** \n> **Weather:    FG** \n> RVR:    21: 200m \n> QNH:    1007hPa \n> Surface Temp:   7°C \n> Dew Point:  7°C \n\n\n",
+  "tags" : [
+    "Grounded"
+  ],
+  "isAllDay" : false
+},
+{
+  "duration" : 0,
+  "creationDate" : "2019-04-21T10:07:02Z",
+  "isPinned" : false,
+  "weather" : {
+    "weatherServiceName" : "Forecast.io",
+    "windBearing" : 68,
+    "visibilityKM" : 9.7250003814697266,
+    "windSpeedKPH" : 9.1099996566772461,
+    "relativeHumidity" : 0,
+    "weatherCode" : "clear",
+    "temperatureCelsius" : 18.770000457763672
+  },
+  "creationOSName" : "macOS",
+  "modifiedDate" : "2021-01-02T18:00:29Z",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -0.2147974967956543,
+        "latitude" : 51.376209259033203
+      },
+      "radius" : 75
+    },
+    "localityName" : "Sutton",
+    "country" : "United Kingdom",
+    "longitude" : -0.2147974967956543,
+    "administrativeArea" : "England",
+    "placeName" : "2 Brocks Drive",
+    "latitude" : 51.376209259033203
+  },
+  "starred" : false,
+  "creationOSVersion" : "10.14.4",
+  "richText" : "{\"meta\":{\"small-lines-removed\":true,\"version\":1,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":558}},\"contents\":[{\"text\":\"NSC - No Significant Cloud \\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"\\nToday’s METAR for Biggin Hill \"},{\"text\":\"NVC - No Significant Cloud.  \",\"attributes\":{\"bold\":true}},{\"text\":\"Can also use \"},{\"text\":\"CAVOK\",\"attributes\":{\"bold\":true}},{\"text\":\" - Cloud and Visibility OK\"},{\"text\":\".\",\"attributes\":{\"bold\":true}},{\"text\":\"  Looking forward to flying again.\\n\\nUseful WIKI of Aero terms :  \"},{\"text\":\"https:\\\/\\\/www.skybrary.aero\\\/index.php\\\/Meteorological_Terminal_Air_Report\",\"attributes\":{\"autolink\":true}},{\"text\":\"_(METAR)\\nMETAR : Metrological Terminal Air Report .\\n\\n\\n\\n\"},{\"text\":\"METAR EGKB 210950Z 05006KT 010V070 9000 NSC 18\\\/08 Q1022=\",\"attributes\":{\"inlineCode\":true}},{\"text\":\" \"},{\"text\":\"\\nWind Speed:     6kt\\nWind Gust:  -\\nWind Direction:     050°\\nVisibility:     9000m\\nCloud:  NSC\\nWeather:    -\\nRVR:    -\\nQNH:    1022hPa\\nSurface Temp:   18°C\\nDew Point:  8°C\"}]}",
+  "uuid" : "0B138D77B297460DA6A4090899BB9C5C",
+  "creationDevice" : "Alex’s iMac",
+  "timeZone" : "Europe\/London",
+  "editingTime" : 0,
+  "creationDeviceType" : "iMac",
+  "creationDeviceModel" : "iMac14,3",
+  "text" : "# NSC \\- No Significant Cloud \n\nToday’s METAR for Biggin Hill ​**NVC \\- No Significant Cloud\\.**​  Can also use **CAVOK** \\- Cloud and Visibility OK​**\\.**​  Looking forward to flying again\\.\n\nUseful WIKI of Aero terms :  https:\/\/www\\.skybrary\\.aero\/index\\.php\/Meteorological\\_Terminal\\_Air\\_Report\\_\\(METAR\\)\nMETAR : Metrological Terminal Air Report \\.\n\n\n\n`METAR EGKB 210950Z 05006KT 010V070 9000 NSC 18\/08 Q1022=` \nWind Speed:     6kt\nWind Gust:  \\-\nWind Direction:     050°\nVisibility:     9000m\nCloud:  NSC\nWeather:    \\-\nRVR:    \\-\nQNH:    1022hPa\nSurface Temp:   18°C\nDew Point:  8°C",
+  "isAllDay" : false
+},
+{
+  "duration" : 0,
+  "creationDate" : "2019-04-21T16:00:46Z",
+  "isPinned" : false,
+  "weather" : {
+    "weatherServiceName" : "Forecast.io",
+    "windBearing" : 81,
+    "visibilityKM" : 10.003000259399414,
+    "windSpeedKPH" : 16.200000762939453,
+    "relativeHumidity" : 0,
+    "weatherCode" : "clear",
+    "temperatureCelsius" : 22.260000228881836
+  },
+  "modifiedDate" : "2021-01-02T18:00:29Z",
+  "creationOSName" : "macOS",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -0.2147974967956543,
+        "latitude" : 51.376209259033203
+      },
+      "radius" : 75
+    },
+    "localityName" : "Sutton",
+    "country" : "United Kingdom",
+    "longitude" : -0.2147974967956543,
+    "administrativeArea" : "England",
+    "placeName" : "2 Brocks Drive",
+    "latitude" : 51.376209259033203
+  },
+  "starred" : false,
+  "creationOSVersion" : "10.14.4",
+  "richText" : "{\"contents\":[{\"text\":\"Haze.\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Today’s flying was cancelled  - due to haze. Despite being CAVOK it was clearly not OK.\\n\\nGary Saint, today’s would be instructor, offered me a flight but said there was no meaningful teaching that can be done when you can’t see the horizon. ‘You would be wasting your money’.\\n\\nUpset that it’s been over a month since I could fly he took me through  me a lot of ground school material I will need to know in the future.\\n\"},{\"text\":\"PPL  into two parts\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"If the PPL 45 hours, 10 must be solo.\\n\"},{\"attributes\":{\"line\":{\"header\":2}},\"text\":\"Zero to First Solo\\n\"},{\"text\":\"This phase is learning to fly the aircraft visually, less about instruments more about looking out the window.  First solo at 10 to 15 hours but as much as 20.\\n\\n\"},{\"text\":\"Aviate, Navigate, Communicate:\\n\",\"attributes\":{\"line\":{\"quote\":true,\"indentLevel\":1,\"header\":0}}},{\"attributes\":{\"line\":{\"header\":2}},\"text\":\"Learning to navigate and fly at the same time.\\n\"},{\"text\":\"Now that you can aviate hours 15 to 45 are more practice and more exams.\\n\"},{\"text\":\"Useful learning.\\n\",\"attributes\":{\"line\":{\"header\":2}}},{\"text\":\"Notams - how to pick out that latitude\\\/longitude \\n\",\"attributes\":{\"line\":{\"header\":0,\"listStyle\":\"bulleted\",\"indentLevel\":1}}},{\"attributes\":{\"line\":{\"header\":0,\"listStyle\":\"bulleted\",\"indentLevel\":1}},\"text\":\"Mass and Balance calculations - how much run way you need need to take off and land\\n\"},{\"text\":\"Aircraft Tech Log, deferred  defect register. Anything significant gets noted down.\\n\",\"attributes\":{\"line\":{\"header\":0,\"indentLevel\":1,\"listStyle\":\"bulleted\"}}},{\"text\":\"Minimum equipment for flight - a decision tree of sorts to know if you’re legal to fly. For instance if you have no artificial horizon it’s OK to fly VFR.\\n\",\"attributes\":{\"line\":{\"listStyle\":\"bulleted\",\"indentLevel\":1,\"header\":0}}},{\"text\":\"\\nGetting annoyed at EFG flying school. Instructor availability, distance from home, run of bad luck with the weather - starting to think Redhill might worth checking out.\\n\\n\"}],\"meta\":{\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":558},\"version\":1,\"small-lines-removed\":true}}",
+  "uuid" : "1F9DB9B6B2F1459DABC6F0C212AA0F65",
+  "creationDevice" : "Alex’s MacBook Air",
+  "timeZone" : "Europe\/London",
+  "editingTime" : 0,
+  "creationDeviceType" : "MacBook Air",
+  "creationDeviceModel" : "MacBookAir7,2",
+  "text" : "# Haze\\.\nToday’s flying was cancelled  \\- due to haze\\. Despite being CAVOK it was clearly not OK\\.\n\nGary Saint, today’s would be instructor, offered me a flight but said there was no meaningful teaching that can be done when you can’t see the horizon\\. ‘You would be wasting your money’\\.\n\nUpset that it’s been over a month since I could fly he took me through  me a lot of ground school material I will need to know in the future\\.\n# PPL  into two parts\nIf the PPL 45 hours, 10 must be solo\\.\n## Zero to First Solo\nThis phase is learning to fly the aircraft visually, less about instruments more about looking out the window\\.  First solo at 10 to 15 hours but as much as 20\\.\n\n> Aviate, Navigate, Communicate:\n## Learning to navigate and fly at the same time\\.\nNow that you can aviate hours 15 to 45 are more practice and more exams\\.\n## Useful learning\\.\n- Notams \\- how to pick out that latitude\/longitude \n- Mass and Balance calculations \\- how much run way you need need to take off and land\n- Aircraft Tech Log, deferred  defect register\\. Anything significant gets noted down\\.\n- Minimum equipment for flight \\- a decision tree of sorts to know if you’re legal to fly\\. For instance if you have no artificial horizon it’s OK to fly VFR\\.\n\nGetting annoyed at EFG flying school\\. Instructor availability, distance from home, run of bad luck with the weather \\- starting to think Redhill might worth checking out\\.\n",
+  "tags" : [
+    "Grounded"
+  ],
+  "isAllDay" : false
+},
+{
+  "duration" : 0,
+  "creationDate" : "2019-04-22T08:24:41Z",
+  "isPinned" : false,
+  "modifiedDate" : "2021-01-02T18:00:29Z",
+  "weather" : {
+    "sunsetDate" : "2019-04-22T19:07:41Z",
+    "temperatureCelsius" : 13,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 40,
+    "sunriseDate" : "2019-04-22T04:49:07Z",
+    "conditionsDescription" : "Mostly Sunny",
+    "pressureMB" : 1008,
+    "visibilityKM" : 6,
+    "relativeHumidity" : 77,
+    "windSpeedKPH" : 6,
+    "weatherCode" : "partly-cloudy",
+    "windChillCelsius" : 13
+  },
+  "creationOSName" : "iOS",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -0.18706312775611877,
+        "latitude" : 51.386039733886719
+      },
+      "radius" : 75
+    },
+    "localityName" : "Morden",
+    "country" : "United Kingdom",
+    "longitude" : -0.18706312775611877,
+    "administrativeArea" : "England",
+    "placeName" : "307 Bishopsford Road",
+    "latitude" : 51.386039733886719
+  },
+  "starred" : false,
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 167
+  },
+  "creationOSVersion" : "12.2",
+  "richText" : "{\"meta\":{\"version\":1,\"created\":{\"version\":558,\"platform\":\"com.bloombuilt.dayone-ios\"},\"small-lines-removed\":true},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Hazy days.  \\n\"},{\"text\":\"Easter Bank holiday Monday.  Even more hazy than yesterday. \\n\\nMidday flight : Grounded. Very disappointed.\\n\\nI called EFG to cancel.\"}]}",
+  "uuid" : "FCFB051C52CA41AFB890C1B448CFB76C",
+  "creationDevice" : "Alex’s iPhone",
+  "timeZone" : "Europe\/London",
+  "editingTime" : 0,
+  "creationDeviceType" : "iPhone",
+  "creationDeviceModel" : "iPhone10,2",
+  "text" : "# Hazy days\\.  \nEaster Bank holiday Monday\\.  Even more hazy than yesterday\\. \n\nMidday flight : Grounded\\. Very disappointed\\.\n\nI called EFG to cancel\\.",
+  "tags" : [
+    "Grounded"
+  ],
+  "isAllDay" : false
+},
+{
+  "duration" : 0,
+  "creationDate" : "2019-04-22T08:30:13Z",
+  "isPinned" : false,
+  "modifiedDate" : "2021-01-02T18:00:29Z",
+  "weather" : {
+    "sunsetDate" : "2019-04-22T19:07:41Z",
+    "temperatureCelsius" : 13,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 60,
+    "sunriseDate" : "2019-04-22T04:49:07Z",
+    "conditionsDescription" : "Mostly Sunny",
+    "pressureMB" : 1008,
+    "visibilityKM" : 6,
+    "relativeHumidity" : 77,
+    "windSpeedKPH" : 7,
+    "weatherCode" : "partly-cloudy",
+    "windChillCelsius" : 13
+  },
+  "creationOSName" : "iOS",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -0.15446388721466064,
+        "latitude" : 51.396762847900391
+      },
+      "radius" : 75
+    },
+    "localityName" : "Mitcham",
+    "country" : "United Kingdom",
+    "longitude" : -0.15446388721466064,
+    "administrativeArea" : "England",
+    "placeName" : "Croydon Road",
+    "latitude" : 51.396762847900391
+  },
+  "starred" : false,
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 187
+  },
+  "creationOSVersion" : "12.2",
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Flying ? Bored Now.  \\n\"},{\"text\":\"This Easter weekend was meant to be the recovery weekend for all the past missed lessons. Two lessons over two days. Instead I've got two days of disappointment.  \\n\\nThe easter weekend was sunny and warm - ideal you would think but as it turns out that even there was no cloud there was so much haze that you couldn’t see the horizon.\\n\\nAs it was explained to me, at my stage I need to fly visually using the horizon. Instrument fitting comes later.  \\n\\nI'm upset and angry that a big dream project has been suffocated at such an early stage.  \\n\"}],\"meta\":{\"version\":1,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":592},\"small-lines-removed\":true}}",
+  "uuid" : "CF299720BA344A91AF7BBCFEF23D2CC5",
+  "creationDevice" : "Alex’s iPhone",
+  "timeZone" : "Europe\/London",
+  "editingTime" : 0,
+  "creationDeviceType" : "iPhone",
+  "creationDeviceModel" : "iPhone10,2",
+  "text" : "# Flying ? Bored Now\\.  \nThis Easter weekend was meant to be the recovery weekend for all the past missed lessons\\. Two lessons over two days\\. Instead I've got two days of disappointment\\.  \n\nThe easter weekend was sunny and warm \\- ideal you would think but as it turns out that even there was no cloud there was so much haze that you couldn’t see the horizon\\.\n\nAs it was explained to me, at my stage I need to fly visually using the horizon\\. Instrument fitting comes later\\.  \n\nI'm upset and angry that a big dream project has been suffocated at such an early stage\\.  ",
+  "tags" : [
+    "Flying",
+    "Bad Day"
+  ],
+  "isAllDay" : false
+},
+{
+  "isAllDay" : false,
+  "modifiedDate" : "2021-01-02T18:00:29Z",
+  "creationOSName" : "macOS",
+  "creationDate" : "2019-04-28T08:30:22Z",
+  "starred" : false,
+  "creationDevice" : "Alex’s MacBook Air",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -0.2147974967956543,
+        "latitude" : 51.376209259033203
+      },
+      "radius" : 75
+    },
+    "localityName" : "Sutton",
+    "country" : "United Kingdom",
+    "longitude" : -0.2147974967956543,
+    "administrativeArea" : "England",
+    "placeName" : "2 Brocks Drive",
+    "latitude" : 51.376209259033203
+  },
+  "creationDeviceType" : "MacBook Air",
+  "isPinned" : false,
+  "creationDeviceModel" : "MacBookAir7,2",
+  "creationOSVersion" : "10.14.4",
+  "richText" : "{\"meta\":{\"version\":1,\"created\":{\"version\":592,\"platform\":\"com.bloombuilt.dayone-ios\"},\"small-lines-removed\":true},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Grounded?\\n\"},{\"text\":\"Excellent video: Pilot explains how weather conditions turned bad suddenly and how quickly the VFR conditions turn dangerous.\\n\\nGot a flight booked, unsure if it will proceed.\"},{\"embeddedObjects\":[{\"type\":\"preview\",\"url\":\"https:\\\/\\\/youtu.be\\\/B56DoPDd6BM\"}]},{\"text\":\"https:\\\/\\\/youtu.be\\\/B56DoPDd6BM\",\"attributes\":{\"autolink\":true}}]}",
+  "duration" : 0,
+  "weather" : {
+    "weatherServiceName" : "Forecast.io",
+    "windBearing" : 301,
+    "visibilityKM" : 10.003000259399414,
+    "windSpeedKPH" : 21.040000915527344,
+    "relativeHumidity" : 0,
+    "weatherCode" : "clear",
+    "temperatureCelsius" : 9.6400003433227539
+  },
+  "editingTime" : 0,
+  "uuid" : "42892C3323514FD89F653E5007FE86E6",
+  "timeZone" : "Europe\/London",
+  "text" : "# Grounded?\nExcellent video: Pilot explains how weather conditions turned bad suddenly and how quickly the VFR conditions turn dangerous\\.\n\nGot a flight booked, unsure if it will proceed\\.\n\nhttps:\/\/youtu.be\/B56DoPDd6BM\n\nhttps:\/\/youtu\\.be\/B56DoPDd6BM"
+},
+{
+  "duration" : 0,
+  "creationDate" : "2019-04-28T18:16:16Z",
+  "isPinned" : false,
+  "weather" : {
+    "weatherServiceName" : "Forecast.io",
+    "windBearing" : 6,
+    "visibilityKM" : 10.003000259399414,
+    "windSpeedKPH" : 13.229999542236328,
+    "relativeHumidity" : 0,
+    "weatherCode" : "clear",
+    "temperatureCelsius" : 12.609999656677246
+  },
+  "creationOSName" : "macOS",
+  "modifiedDate" : "2021-09-08T13:42:53Z",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -0.2147974967956543,
+        "latitude" : 51.376209259033203
+      },
+      "radius" : 75
+    },
+    "localityName" : "Sutton",
+    "country" : "United Kingdom",
+    "longitude" : -0.2147974967956543,
+    "administrativeArea" : "England",
+    "placeName" : "2 Brocks Drive",
+    "latitude" : 51.376209259033203
+  },
+  "starred" : false,
+  "creationOSVersion" : "10.14.4",
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":800}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1,\"identifier\":\"56391CA1-DA79-4D3A-ADC9-39D2BD859D80\"}},\"text\":\"Flight 4 - Straight and Level variable speed\\n\"},{\"attributes\":{\"inlineCode\":true},\"text\":\"G-ENNA 14:25 - 15:25 Ex:6(ii) Straight & Level variable speed\"},{\"attributes\":{},\"text\":\" \"},{\"text\":\"\\n\\n42 days since my last flight.  This really was a make on break moment for continuing with flying and with this flight school.\\n\\nToday’s flight was good. learning to fly at different speeds fast at 110 Kts and slow at 80Kts.\\n\\n\\n\\n\\n\"}]}",
+  "uuid" : "2EE2BA01EA46445DAD7C211A8BFBAAA6",
+  "creationDevice" : "Alex’s iMac",
+  "timeZone" : "Europe\/London",
+  "editingTime" : 0,
+  "creationDeviceType" : "iMac",
+  "creationDeviceModel" : "iMac14,3",
+  "text" : "# Flight 4 \\- Straight and Level variable speed\n`G\\-ENNA 14:25 \\- 15:25 Ex:6\\(ii\\) Straight & Level variable speed` \n\n42 days since my last flight\\.  This really was a make on break moment for continuing with flying and with this flight school\\.\n\nToday’s flight was good\\. learning to fly at different speeds fast at 110 Kts and slow at 80Kts\\.\n\n\n\n",
+  "isAllDay" : false
+},
+{
+  "uuid" : "2640FAB32681402BB393B73898F49F9D",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -0.14247216284275055,
+        "latitude" : 51.217716217041016
+      },
+      "radius" : 75
+    },
+    "localityName" : "Redhill",
+    "country" : "United Kingdom",
+    "longitude" : -0.14247216284275055,
+    "administrativeArea" : "England",
+    "placeName" : "Redhill Aerodrome",
+    "latitude" : 51.217716217041016
+  },
+  "creationOSName" : "macOS",
+  "photos" : [
+    {
+      "fileSize" : 631927,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -0.14247216284275055,
+            "latitude" : 51.217716217041016
+          },
+          "identifier" : "<+51.21771622,-0.14247216> radius 70.76",
+          "radius" : 70.761748761976406
+        },
+        "localityName" : "Redhill",
+        "country" : "United Kingdom",
+        "timeZoneName" : "Europe\/London",
+        "administrativeArea" : "England",
+        "longitude" : -0.14247216284275055,
+        "placeName" : "Redhill Aerodrome",
+        "latitude" : 51.217716217041016
+      },
+      "lensModel" : "iPhone 8 Plus back dual camera 3.99mm f\/1.8",
+      "orderInEntry" : 0,
+      "creationDevice" : "Alex’s iMac",
+      "duration" : 0,
+      "favorite" : false,
+      "cameraMake" : "Apple",
+      "type" : "jpeg",
+      "lensMake" : "Apple",
+      "identifier" : "088D48A6AE624E9382349AA912731CDB",
+      "date" : "2019-05-04T13:32:09Z",
+      "exposureBiasValue" : 0,
+      "height" : 1184,
+      "fnumber" : "1.8",
+      "width" : 2699,
+      "md5" : "1b81e13a2abe585ae120fbe5e123a133",
+      "isSketch" : false,
+      "focalLength" : "3.99",
+      "cameraModel" : "iPhone 8 Plus"
+    }
+  ],
+  "timeZone" : "Europe\/London",
+  "duration" : 0,
+  "creationDeviceModel" : "iMac14,3",
+  "isPinned" : false,
+  "creationDevice" : "Alex’s iMac",
+  "creationDate" : "2019-05-04T13:32:09Z",
+  "text" : "# Redhill Aerodrome\n\nBiggin Hill is too busy trying to be a big Airport \\- not a place of learning\\. Visited Redhill Aerodrome \\- Cubair could be an interesting place to learn to fly\\. They have Katana’s which are more like gliders \\- much more efficient\\. A contrast to the Piper 28s which are more brick like \\- heavier, need more fuel\\.\n\n![](dayone-moment:\/\/088D48A6AE624E9382349AA912731CDB)",
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":800}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1,\"identifier\":\"ABA3D36D-E1F5-4445-95D1-B1FC889F7D67\"}},\"text\":\"Redhill Aerodrome\\n\"},{\"text\":\"\\nBiggin Hill is too busy trying to be a big Airport - not a place of learning. Visited Redhill Aerodrome - Cubair could be an interesting place to learn to fly. They have Katana’s which are more like gliders - much more efficient. A contrast to the Piper 28s which are more brick like - heavier, need more fuel.\"},{\"embeddedObjects\":[{\"type\":\"photo\",\"identifier\":\"088D48A6AE624E9382349AA912731CDB\"}]}]}",
+  "starred" : false,
+  "modifiedDate" : "2021-09-08T13:42:53Z",
+  "editingTime" : 0,
+  "creationDeviceType" : "iMac",
+  "isAllDay" : false,
+  "weather" : {
+    "sunsetDate" : "2019-05-04T19:27:25Z",
+    "temperatureCelsius" : 10,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 350,
+    "sunriseDate" : "2019-05-04T04:27:27Z",
+    "conditionsDescription" : "Partly Cloudy",
+    "pressureMB" : 1021,
+    "visibilityKM" : 48.280319213867188,
+    "relativeHumidity" : 54,
+    "windSpeedKPH" : 26,
+    "weatherCode" : "partly-cloudy",
+    "windChillCelsius" : 10
+  },
+  "creationOSVersion" : "10.14.4"
+},
+{
+  "duration" : 0,
+  "creationDate" : "2019-05-08T07:05:43Z",
+  "isPinned" : false,
+  "creationOSName" : "iOS",
+  "modifiedDate" : "2021-01-02T18:00:29Z",
+  "starred" : false,
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 295
+  },
+  "creationOSVersion" : "12.2",
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":592}},\"contents\":[{\"text\":\"Thanks EFG but good bye \\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Had a chat with a pilot friend last night.  He explained how very few people who take flying lessons actually go all the way through to qualified pilot.  Very often people give up or lose interest. If you've paid up in advance then you are unlikely to get a refund from the flying school for lessons not taken.  \\n\\nPlan of action\\n\"},{\"attributes\":{\"line\":{\"header\":0,\"listStyle\":\"bulleted\",\"indentLevel\":1}},\"text\":\"Try out flight at Cubair\\n\"},{\"attributes\":{\"line\":{\"listStyle\":\"bulleted\",\"header\":0,\"indentLevel\":1}},\"text\":\"Close out remaining air time at EFG\\n\"},{\"text\":\"\\n\"}]}",
+  "uuid" : "9DB2C94509E246FBBCB52D337C11D173",
+  "creationDevice" : "Alex’s iPhone",
+  "timeZone" : "Europe\/London",
+  "editingTime" : 0,
+  "creationDeviceType" : "iPhone",
+  "creationDeviceModel" : "iPhone10,2",
+  "text" : "# Thanks EFG but good bye \nHad a chat with a pilot friend last night\\.  He explained how very few people who take flying lessons actually go all the way through to qualified pilot\\.  Very often people give up or lose interest\\. If you've paid up in advance then you are unlikely to get a refund from the flying school for lessons not taken\\.  \n\nPlan of action\n- Try out flight at Cubair\n- Close out remaining air time at EFG\n",
+  "isAllDay" : false
+},
+{
+  "isAllDay" : false,
+  "tags" : [
+    "Fixme"
+  ],
+  "modifiedDate" : "2021-01-02T18:00:29Z",
+  "creationOSName" : "iOS",
+  "sourceString" : "visit-BF018080-4CF4-4CD5-8D90-A4318D6CF7CF",
+  "creationDate" : "2019-05-16T11:00:00Z",
+  "starred" : false,
+  "creationDevice" : "Alex’s iPhone",
+  "creationDeviceType" : "iPhone",
+  "isPinned" : false,
+  "creationDeviceModel" : "iPhone10,2",
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 349
+  },
+  "creationOSVersion" : "12.2",
+  "editingTime" : 67.661572933197021,
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"version\":592,\"platform\":\"com.bloombuilt.dayone-ios\"}},\"contents\":[{\"text\":\"A day off for flying \\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Today was a day for flying. In fact the while week has been glorious weather.  I felt a little guilty I wasn't pushing things forward at work but I had booked this flight weeks ago. \\n\\nI had booked two flights. \\n\"},{\"attributes\":{\"line\":{\"header\":3}},\"text\":\"I've lost that flying feeling\\n\"},{\"text\":\"Back in January I had a deep and persistent want and need to fly. Today I really didn't want to fly at all. The spark and the excitement had gone.  \\n\\nBut I had paid for these lessons so I pushed on in the hope of rekindling the desire to fly.  \\n\\nTwo lessons, back to back. Wasn't sure what to expect.  \\n\"},{\"text\":\"Am I capable of being a pilot?\\n\",\"attributes\":{\"line\":{\"header\":3}}},{\"text\":\"Yesterday's flight made me question of I really want to be learning to fly.  If I don't fly then I would need a new project to keep me busy.  \\n\"}]}",
+  "duration" : 0,
+  "uuid" : "477AFA6EA89D433B91F5F472BDE8FFC0",
+  "timeZone" : "Europe\/London",
+  "text" : "# A day off for flying \nToday was a day for flying\\. In fact the while week has been glorious weather\\.  I felt a little guilty I wasn't pushing things forward at work but I had booked this flight weeks ago\\. \n\nI had booked two flights\\. \n### I've lost that flying feeling\nBack in January I had a deep and persistent want and need to fly\\. Today I really didn't want to fly at all\\. The spark and the excitement had gone\\.  \n\nBut I had paid for these lessons so I pushed on in the hope of rekindling the desire to fly\\.  \n\nTwo lessons, back to back\\. Wasn't sure what to expect\\.  \n### Am I capable of being a pilot?\nYesterday's flight made me question of I really want to be learning to fly\\.  If I don't fly then I would need a new project to keep me busy\\.  "
+},
+{
+  "duration" : 0,
+  "creationDate" : "2019-05-16T15:40:24Z",
+  "isPinned" : false,
+  "modifiedDate" : "2021-05-19T10:09:17Z",
+  "weather" : {
+    "sunsetDate" : "2019-05-16T19:45:52Z",
+    "temperatureCelsius" : 14,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 70,
+    "sunriseDate" : "2019-05-16T04:06:44Z",
+    "conditionsDescription" : "Mostly Sunny",
+    "pressureMB" : 1017,
+    "visibilityKM" : 11.265407562255859,
+    "relativeHumidity" : 39,
+    "windSpeedKPH" : 26,
+    "weatherCode" : "partly-cloudy",
+    "windChillCelsius" : 14
+  },
+  "creationOSName" : "iOS",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -0.20863907039165497,
+        "latitude" : 51.371627807617188
+      },
+      "radius" : 75
+    },
+    "localityName" : "Sutton",
+    "country" : "United Kingdom",
+    "longitude" : -0.20863907039165497,
+    "administrativeArea" : "England",
+    "placeName" : "1 Oldfields Road",
+    "latitude" : 51.371627807617188
+  },
+  "starred" : false,
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 1155
+  },
+  "creationOSVersion" : "12.2",
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":769}},\"contents\":[{\"attributes\":{\"line\":{\"identifier\":\"5B376333-00C4-44AE-8A3A-5E6E81114731\",\"header\":1}},\"text\":\"Flights 5 - Straight and Level variable speed\\n\"},{\"attributes\":{\"inlineCode\":true},\"text\":\"G-CIZO 10:45z -11:45 Ex:6 & Ex:7\"},{\"attributes\":{},\"text\":\" \"},{\"text\":\"\\n\\n\\n\\nNot happy , didn’t really want to fly.\\nForced my self since I’ve already paid for the flight.\\n\\nStarted to feel better mid flight, lots to take in.\\n\\nNo debrief at end of flight.\\nConfused at all the different switches... each plane is different and they’re all different from the check list. stick with just one plane?\"}]}",
+  "uuid" : "FE0A9002E1BF4CDB95EA9553985DE0FB",
+  "creationDevice" : "Alex’s iPhone",
+  "timeZone" : "Europe\/London",
+  "editingTime" : 0,
+  "creationDeviceType" : "iPhone",
+  "creationDeviceModel" : "iPhone10,2",
+  "text" : "# Flights 5 \\- Straight and Level variable speed\n`G\\-CIZO 10:45z \\-11:45 Ex:6 & Ex:7` \n\n\n\nNot happy , didn’t really want to fly\\.\nForced my self since I’ve already paid for the flight\\.\n\nStarted to feel better mid flight, lots to take in\\.\n\nNo debrief at end of flight\\.\nConfused at all the different switches\\.\\.\\. each plane is different and they’re all different from the check list\\. stick with just one plane?",
+  "tags" : [
+    "Fixme"
+  ],
+  "isAllDay" : false
+},
+{
+  "duration" : 0,
+  "creationDate" : "2019-05-16T15:40:40Z",
+  "isPinned" : false,
+  "modifiedDate" : "2021-05-19T10:09:17Z",
+  "weather" : {
+    "sunsetDate" : "2019-05-16T19:45:52Z",
+    "temperatureCelsius" : 14,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 70,
+    "sunriseDate" : "2019-05-16T04:06:44Z",
+    "conditionsDescription" : "Mostly Sunny",
+    "pressureMB" : 1017,
+    "visibilityKM" : 11.265407562255859,
+    "relativeHumidity" : 39,
+    "windSpeedKPH" : 26,
+    "weatherCode" : "partly-cloudy",
+    "windChillCelsius" : 14
+  },
+  "creationOSName" : "iOS",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -0.20866672694683075,
+        "latitude" : 51.371574401855469
+      },
+      "radius" : 75
+    },
+    "localityName" : "Sutton",
+    "country" : "United Kingdom",
+    "longitude" : -0.20866672694683075,
+    "administrativeArea" : "England",
+    "placeName" : "Gander Green Lane",
+    "latitude" : 51.371574401855469
+  },
+  "starred" : false,
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 1155
+  },
+  "creationOSVersion" : "12.2",
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":769}},\"contents\":[{\"attributes\":{\"line\":{\"identifier\":\"226DB53B-3287-4230-9F2D-3F027FA76082\",\"header\":1}},\"text\":\"Flight 6\\n\"},{\"attributes\":{\"inlineCode\":true},\"text\":\"G-CIZO 12:15z -13:45z Ex:9(i) & 9(ii) \"},{\"attributes\":{},\"text\":\" \"},{\"text\":\"\\n\\n\\nFirst take off - wobbly woo\\nGoing round and round  - overwhelming nausea  on final\\nSick on landing\"}]}",
+  "uuid" : "FEA343ED60BE4CA3B70200059DD27FDF",
+  "creationDevice" : "Alex’s iPhone",
+  "timeZone" : "Europe\/London",
+  "editingTime" : 0,
+  "creationDeviceType" : "iPhone",
+  "creationDeviceModel" : "iPhone10,2",
+  "text" : "# Flight 6\n`G\\-CIZO 12:15z \\-13:45z Ex:9\\(i\\) & 9\\(ii\\)`  \n\n\nFirst take off \\- wobbly woo\nGoing round and round  \\- overwhelming nausea  on final\nSick on landing",
+  "tags" : [
+    "Fixme"
+  ],
+  "isAllDay" : false
+},
+{
+  "duration" : 0,
+  "creationDate" : "2019-05-19T21:22:18Z",
+  "photos" : [
+    {
+      "fileSize" : 5713223,
+      "orderInEntry" : 0,
+      "creationDevice" : "Alex’s iPhone",
+      "duration" : 0,
+      "favorite" : false,
+      "type" : "png",
+      "identifier" : "E18506E10C7A4410ADD750B981F9E8E8",
+      "date" : "2019-05-19T21:22:18Z",
+      "height" : 2001,
+      "fnumber" : "(null)",
+      "width" : 1125,
+      "md5" : "0d9b6cdcf9e8e2cc0f891fce913d7419",
+      "isSketch" : false,
+      "focalLength" : "(null)"
+    }
+  ],
+  "isPinned" : false,
+  "creationOSName" : "iOS",
+  "modifiedDate" : "2021-01-02T18:04:01Z",
+  "starred" : false,
+  "userActivity" : {
+    "activityName" : "Walking",
+    "stepCount" : 5390
+  },
+  "creationOSVersion" : "12.2",
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1124}},\"contents\":[{\"text\":\"Terrible flight \\nOne small plus, saw the Spitfire taxiing on the run way.  \"},{\"embeddedObjects\":[{\"type\":\"photo\",\"identifier\":\"E18506E10C7A4410ADD750B981F9E8E8\"}]}]}",
+  "uuid" : "B8690C01D9224A448C6BA853664F5FC9",
+  "creationDevice" : "Alex’s iPhone",
+  "timeZone" : "Europe\/London",
+  "sourceString" : "photomoment-D361CC6D-9DBB-43DE-9F59-D2F3E5518F59\/L0\/060",
+  "editingTime" : 0,
+  "creationDeviceModel" : "iPhone10,2",
+  "creationDeviceType" : "iPhone",
+  "text" : "Terrible flight \nOne small plus, saw the Spitfire taxiing on the run way\\. \n\n![](dayone-moment:\/\/E18506E10C7A4410ADD750B981F9E8E8)",
+  "tags" : [
+    "Fixme"
+  ],
+  "isAllDay" : false
+},
+{
+  "duration" : 0,
+  "creationDate" : "2019-06-07T11:00:00Z",
+  "isPinned" : false,
+  "weather" : {
+    "weatherServiceName" : "Forecast.io",
+    "windBearing" : 112,
+    "conditionsDescription" : "Rain",
+    "pressureMB" : 1001.7000122070312,
+    "visibilityKM" : 7.745999813079834,
+    "relativeHumidity" : 0,
+    "windSpeedKPH" : 22.879999160766602,
+    "weatherCode" : "rain",
+    "temperatureCelsius" : 13.289999961853027
+  },
+  "creationOSName" : "macOS",
+  "modifiedDate" : "2021-01-02T18:00:29Z",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -0.2147974967956543,
+        "latitude" : 51.376209259033203
+      },
+      "radius" : 75
+    },
+    "localityName" : "Sutton",
+    "country" : "United Kingdom",
+    "longitude" : -0.2147974967956543,
+    "administrativeArea" : "England",
+    "placeName" : "2 Brocks Drive",
+    "latitude" : 51.376209259033203
+  },
+  "starred" : false,
+  "creationOSVersion" : "10.14.4",
+  "richText" : "{\"contents\":[{\"text\":\"trial flight at CubAir\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"11am - didn’t happen due to bad weather. \\n\\nFlying is going on pause until I can see a way forward.\"}],\"meta\":{\"version\":1,\"small-lines-removed\":true}}",
+  "uuid" : "DBA85610E9954BE8ADDDEF23CBBEC7DD",
+  "creationDevice" : "Alex’s iMac",
+  "timeZone" : "Europe\/London",
+  "editingTime" : 0,
+  "creationDeviceType" : "iMac",
+  "creationDeviceModel" : "iMac14,3",
+  "text" : "# trial flight at CubAir\n11am \\- didn’t happen due to bad weather\\. \n\nFlying is going on pause until I can see a way forward\\.",
+  "isAllDay" : false
+},
+{
+  "isPinned" : false,
+  "text" : "# Flying feelings\n\nOn reflection the lessons I had at Biggin Hill were disappointing\\. The instructor offered me no continuity\\.  The final flight was a trauma and, for a while, stopped me wanting to fly\\. With disappointment and regret I put the pilot bag with all the books and charts into storage\\. \n\nNow, much later, I still find my self looking at Youtube videos about GA\/General Aviation\\.  VFR flights into Quartz Canyon Alaska \\- at midnight in the summer sun\\. Club fly\\-outs to distant airfield in the Channel Islands seem wonderful\\. \n\nReading the book “Take Your Wings And Fly” has done a lot to frame my mind set that the British weather will continuously disruptive and do it’s damnedest to stop anyone flying\\. I can still fathom out a path to learning to fly \\- just have to get time place and occasion properly lined up\\.\n\nIntensive course overseas? Yes but not before getting aquatinted with a friendly flying school to practice my skill once I’ve got qualified\\.\n\n- First Solo \\- you can do circuits \\- you can fly\\.\n- First Navigation Solo \\- you can fly between airports, now it’s getting interesting\\.\n\n",
+  "creationDeviceModel" : "MacBookAir7,2",
+  "starred" : false,
+  "timeZone" : "Europe\/London",
+  "editingTime" : 20.142859935760498,
+  "creationOSVersion" : "10.14.5",
+  "creationDate" : "2019-07-13T16:46:37Z",
+  "uuid" : "F62A765DAFBF491488FB1AAEDE5820CC",
+  "creationDeviceType" : "MacBook Air",
+  "creationOSName" : "macOS",
+  "creationDevice" : "Alex’s MacBook Air",
+  "modifiedDate" : "2021-09-08T13:42:53Z",
+  "tags" : [
+    "Flying"
+  ],
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":800}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1,\"identifier\":\"2F5A75C7-A73C-4872-9596-795A6252AACF\"}},\"text\":\"Flying feelings\\n\"},{\"text\":\"\\nOn reflection the lessons I had at Biggin Hill were disappointing. The instructor offered me no continuity.  The final flight was a trauma and, for a while, stopped me wanting to fly. With disappointment and regret I put the pilot bag with all the books and charts into storage. \\n\\nNow, much later, I still find my self looking at Youtube videos about GA\\\/General Aviation.  VFR flights into Quartz Canyon Alaska - at midnight in the summer sun. Club fly-outs to distant airfield in the Channel Islands seem wonderful. \\n\\nReading the book “Take Your Wings And Fly” has done a lot to frame my mind set that the British weather will continuously disruptive and do it’s damnedest to stop anyone flying. I can still fathom out a path to learning to fly - just have to get time place and occasion properly lined up.\\n\\nIntensive course overseas? Yes but not before getting aquatinted with a friendly flying school to practice my skill once I’ve got qualified.\\n\\n\"},{\"attributes\":{\"line\":{\"indentLevel\":1,\"listStyle\":\"bulleted\",\"identifier\":\"2C169A7F-35CC-46D9-A983-0729CFAE2E4D\"}},\"text\":\"First Solo - you can do circuits - you can fly.\\n\"},{\"attributes\":{\"line\":{\"indentLevel\":1,\"listStyle\":\"bulleted\",\"identifier\":\"BDF50048-12A0-4F69-9F95-6DF916B493C1\"}},\"text\":\"First Navigation Solo - you can fly between airports, now it’s getting interesting.\\n\"},{\"text\":\"\\n\\n\"}]}",
+  "isAllDay" : false,
+  "duration" : 0
+},
+{
+  "duration" : 0,
+  "creationDate" : "2019-07-28T09:56:38Z",
+  "photos" : [
+    {
+      "fileSize" : 742790,
+      "orderInEntry" : 1,
+      "creationDevice" : "Alex’s iPhone",
+      "duration" : 0,
+      "favorite" : false,
+      "type" : "jpeg",
+      "identifier" : "51D6F0C5669C4E15ADCFC946FA59B34B",
+      "date" : "2020-03-09T22:33:04Z",
+      "height" : 920,
+      "fnumber" : "(null)",
+      "width" : 1125,
+      "md5" : "52484eadbfa5b88271eecdac9565a0ba",
+      "isSketch" : false,
+      "focalLength" : "(null)"
+    },
+    {
+      "fileSize" : 927727,
+      "orderInEntry" : 0,
+      "creationDevice" : "Alex’s iPhone",
+      "duration" : 0,
+      "favorite" : false,
+      "type" : "jpeg",
+      "identifier" : "B4E6FD49B91C4ED4BE42EA08E0976D9A",
+      "date" : "2020-03-09T22:33:04Z",
+      "height" : 1492,
+      "fnumber" : "(null)",
+      "width" : 1125,
+      "md5" : "de8cc6cd6a461d745b9287140935cdf4",
+      "isSketch" : false,
+      "focalLength" : "(null)"
+    }
+  ],
+  "isPinned" : false,
+  "creationOSName" : "iOS",
+  "weather" : {
+    "sunsetDate" : "2019-07-28T19:57:08Z",
+    "temperatureCelsius" : 19,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 300,
+    "sunriseDate" : "2019-07-28T04:19:31Z",
+    "conditionsDescription" : "Mostly Cloudy",
+    "pressureMB" : 1006,
+    "visibilityKM" : 48.280319213867188,
+    "relativeHumidity" : 68,
+    "windSpeedKPH" : 20,
+    "weatherCode" : "mostly-cloudy",
+    "windChillCelsius" : 19
+  },
+  "modifiedDate" : "2021-01-02T18:03:59Z",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -0.25012588500976562,
+        "latitude" : 51.383762359619141
+      },
+      "radius" : 75
+    },
+    "localityName" : "Worcester Park",
+    "country" : "United Kingdom",
+    "longitude" : -0.25012588500976562,
+    "administrativeArea" : "England",
+    "placeName" : "402 Malden Road",
+    "latitude" : 51.383762359619141
+  },
+  "starred" : false,
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 305
+  },
+  "creationOSVersion" : "12.3.2",
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"It doesn't stop at VFR\\n\"},{\"text\":\"\\nI was reading a post to the GA community page on FaceBook. It clearly shows that having a VFR license is but a first step and that higher ratings are required to get the most out of you flying - especially with the UK’s weather. \\n\\nAs I consider if I want to focus my time and money on flying something to get straight in your head is that this is an on going cost commitment. It’s a money sink that will run and run until I give up flying. Now this could all be fun and a wonderful pastime. But of all the way to spend my money - is this the best one?\\n\\n\\n\"},{\"attributes\":{\"line\":{\"header\":2}},\"text\":\"Key quote\\n\"},{\"attributes\":{\"line\":{\"quote\":true,\"indentLevel\":1}},\"text\":\"UK weather was pretty bad, with a cloudbase of 500ft and rain, but after 10 mins' flying it was clear and then got blue skies in France. \"},{\"attributes\":{\"line\":{\"quote\":true,\"indentLevel\":1},\"bold\":true},\"text\":\"Several others cancelled due to VFR limitations, \"},{\"attributes\":{\"line\":{\"quote\":true,\"indentLevel\":1}},\"text\":\"which really shows the value of an IR and having access to a properly working plane.\\n\"},{\"text\":\"\\n\\n\"},{\"embeddedObjects\":[{\"type\":\"photo\",\"identifier\":\"B4E6FD49B91C4ED4BE42EA08E0976D9A\"},{\"type\":\"photo\",\"identifier\":\"51D6F0C5669C4E15ADCFC946FA59B34B\"}]}]}",
+  "uuid" : "2A6F8B50E02145DF9AE2285AFEB5CEBA",
+  "creationDevice" : "Alex’s iPhone",
+  "timeZone" : "Europe\/London",
+  "editingTime" : 0,
+  "creationDeviceType" : "iPhone",
+  "creationDeviceModel" : "iPhone10,2",
+  "text" : "# It doesn't stop at VFR\n\nI was reading a post to the GA community page on FaceBook\\. It clearly shows that having a VFR license is but a first step and that higher ratings are required to get the most out of you flying \\- especially with the UK’s weather\\. \n\nAs I consider if I want to focus my time and money on flying something to get straight in your head is that this is an on going cost commitment\\. It’s a money sink that will run and run until I give up flying\\. Now this could all be fun and a wonderful pastime\\. But of all the way to spend my money \\- is this the best one?\n\n## Key quote\n> UK weather was pretty bad, with a cloudbase of 500ft and rain, but after 10 mins' flying it was clear and then got blue skies in France\\. ​**Several others cancelled due to VFR limitations,**​ which really shows the value of an IR and having access to a properly working plane\\.\n\n\n\n![](dayone-moment:\/\/B4E6FD49B91C4ED4BE42EA08E0976D9A)\n\n![](dayone-moment:\/\/51D6F0C5669C4E15ADCFC946FA59B34B)",
+  "isAllDay" : false
+},
+{
+  "duration" : 0,
+  "creationDate" : "2019-07-28T15:31:05Z",
+  "isPinned" : false,
+  "weather" : {
+    "weatherServiceName" : "Forecast.io",
+    "windBearing" : 310,
+    "conditionsDescription" : "Overcast",
+    "pressureMB" : 1006.2000122070312,
+    "visibilityKM" : 16.093000411987305,
+    "relativeHumidity" : 0,
+    "windSpeedKPH" : 16.209999084472656,
+    "weatherCode" : "cloudy",
+    "temperatureCelsius" : 21.950000762939453
+  },
+  "creationOSName" : "macOS",
+  "modifiedDate" : "2021-01-02T18:00:29Z",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -0.2147974967956543,
+        "latitude" : 51.376209259033203
+      },
+      "radius" : 75
+    },
+    "localityName" : "Sutton",
+    "country" : "United Kingdom",
+    "longitude" : -0.2147974967956543,
+    "administrativeArea" : "England",
+    "placeName" : "2 Brocks Drive",
+    "latitude" : 51.376209259033203
+  },
+  "starred" : false,
+  "creationOSVersion" : "10.14.4",
+  "richText" : "{\"contents\":[{\"text\":\"Flight Level vs Altitude\\n\\nThe moment you hit 10,000 feet, you have to change your QNH to 1013 and start calling everything by its \"},{\"attributes\":{\"bold\":true},\"text\":\"flight level\"},{\"text\":\" rather than it’s altitude.\\n\\nSo a flight level 240 is 24,000 feet IF the pressure at sea level was 1013 hPa… since its most probably not, the actual altitude will be different, but that won’t concern us since we only call it FL 240 and not by its altitude.\\n\\nfrom \"},{\"attributes\":{\"autolink\":true},\"text\":\"https:\\\/\\\/nomadicwings.wordpress.com\\\/2011\\\/05\\\/01\\\/flight-levels-vs-altitude\\\/\"},{\"text\":\"\\n\"}],\"meta\":{\"small-lines-removed\":true,\"created\":{\"version\":1164,\"platform\":\"com.bloombuilt.dayone-mac\"},\"version\":1}}",
+  "uuid" : "3230D38B60AF4D5A9165B41962308E8C",
+  "creationDevice" : "Alex’s iMac",
+  "timeZone" : "Europe\/London",
+  "editingTime" : 0,
+  "creationDeviceType" : "iMac",
+  "creationDeviceModel" : "iMac14,3",
+  "text" : "Flight Level vs Altitude\n\nThe moment you hit 10,000 feet, you have to change your QNH to 1013 and start calling everything by its **flight level** rather than it’s altitude\\.\n\nSo a flight level 240 is 24,000 feet IF the pressure at sea level was 1013 hPa… since its most probably not, the actual altitude will be different, but that won’t concern us since we only call it FL 240 and not by its altitude\\.\n\nfrom https:\/\/nomadicwings\\.wordpress\\.com\/2011\/05\/01\/flight\\-levels\\-vs\\-altitude\/",
+  "isAllDay" : false
+},
+{
+  "creationDate" : "2019-10-22T16:46:24Z",
+  "uuid" : "625C3F32D8734F1EAA215B5F7889A6EB",
+  "editingTime" : 0,
+  "isPinned" : false,
+  "photos" : [
+    {
+      "fileSize" : 911188,
+      "location" : {
+        "region" : {
+          "center" : {
+            "longitude" : -0.14059099999999999,
+            "latitude" : 51.215812700000001
+          },
+          "identifier" : "<+51.21581270,-0.14059100> radius 1183.43",
+          "radius" : 1183.426459621
+        },
+        "localityName" : "Redhill",
+        "country" : "United Kingdom",
+        "timeZoneName" : "Europe\/London",
+        "administrativeArea" : "England",
+        "longitude" : -0.14229999482631683,
+        "placeName" : "Redhill Aerodrome",
+        "latitude" : 51.217887878417969
+      },
+      "lensModel" : "iPhone 8 Plus front camera 2.87mm f\/2.2",
+      "orderInEntry" : 0,
+      "creationDevice" : "Alex’s iMac",
+      "duration" : 0,
+      "favorite" : false,
+      "cameraMake" : "Apple",
+      "type" : "jpeg",
+      "lensMake" : "Apple",
+      "identifier" : "F677270638E349C5A50BA3AE09A3DFCD",
+      "date" : "2019-10-22T16:46:24Z",
+      "exposureBiasValue" : 0,
+      "height" : 2320,
+      "fnumber" : "2.2",
+      "width" : 3088,
+      "md5" : "72c48bf6ea353ecc1a2fb81468a5d3a8",
+      "isSketch" : false,
+      "focalLength" : "2.87",
+      "cameraModel" : "iPhone 8 Plus"
+    }
+  ],
+  "isAllDay" : false,
+  "weather" : {
+    "weatherServiceName" : "Forecast.io",
+    "windBearing" : 190,
+    "conditionsDescription" : "Clear",
+    "pressureMB" : 1023,
+    "visibilityKM" : 16.093000411987305,
+    "relativeHumidity" : 0,
+    "windSpeedKPH" : 5.3499999046325684,
+    "weatherCode" : "clear",
+    "temperatureCelsius" : 11
+  },
+  "creationDeviceModel" : "MacBookAir7,2",
+  "starred" : true,
+  "duration" : 0,
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":791}},\"contents\":[{\"attributes\":{\"line\":{\"identifier\":\"537F4155-78A4-44AD-9675-143D264768AF\",\"header\":1}},\"text\":\"Flight \\n\"},{\"text\":\"Redhill \"},{\"embeddedObjects\":[{\"type\":\"photo\",\"identifier\":\"F677270638E349C5A50BA3AE09A3DFCD\"}]},{\"text\":\"We're back in business\\n\\nI can learn to fly this plane\\n\\n\\nThe constant revs engine was confusing\\n\\nThe weather was good\"}]}",
+  "timeZone" : "Europe\/London",
+  "modifiedDate" : "2021-07-24T13:00:25Z",
+  "creationDeviceType" : "MacBook Air",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -0.14229999482631683,
+        "latitude" : 51.217887878417969
+      },
+      "radius" : 75
+    },
+    "localityName" : "Redhill",
+    "country" : "United Kingdom",
+    "longitude" : -0.14229999482631683,
+    "administrativeArea" : "England",
+    "placeName" : "Redhill Aerodrome",
+    "latitude" : 51.217887878417969
+  },
+  "creationOSVersion" : "10.14.6",
+  "text" : "# Flight \nRedhill\n\n![](dayone-moment:\/\/F677270638E349C5A50BA3AE09A3DFCD)\n\nWe're back in business\n\nI can learn to fly this plane\n\n\nThe constant revs engine was confusing\n\nThe weather was good",
+  "creationDevice" : "Alex’s MacBook Air",
+  "creationOSName" : "macOS"
+},
+{
+  "creationDate" : "2020-03-16T15:36:44Z",
+  "uuid" : "D58D213ACB774E60A90CEAF5A2C0FACF",
+  "editingTime" : 36.00901210308075,
+  "isPinned" : false,
+  "isAllDay" : false,
+  "weather" : {
+    "weatherServiceName" : "Forecast.io",
+    "windBearing" : 271,
+    "conditionsDescription" : "Clear",
+    "pressureMB" : 1022.7999877929688,
+    "visibilityKM" : 16.093000411987305,
+    "relativeHumidity" : 0,
+    "windSpeedKPH" : 9.4300003051757812,
+    "weatherCode" : "clear",
+    "temperatureCelsius" : 11.390000343322754
+  },
+  "creationDeviceModel" : "MacBookAir7,2",
+  "starred" : false,
+  "duration" : 0,
+  "richText" : "{\"meta\":{\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1158},\"version\":1,\"small-lines-removed\":true},\"contents\":[{\"text\":\"John Hunt gauging me on \\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"\\n\",\"attributes\":{\"line\":{\"header\":0}}},{\"text\":\"John’s little inspiration for me to get me flying again.\",\"attributes\":{\"line\":{\"header\":0}}},{\"embeddedObjects\":[{\"url\":\"https:\\\/\\\/youtu.be\\\/MPMDPnaplro\",\"type\":\"preview\"}]},{\"text\":\"https:\\\/\\\/youtu.be\\\/MPMDPnaplro?t=700\",\"attributes\":{\"autolink\":true}}]}",
+  "timeZone" : "Europe\/London",
+  "modifiedDate" : "2021-01-02T18:00:29Z",
+  "creationDeviceType" : "MacBook Air",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -0.2147974967956543,
+        "latitude" : 51.376209259033203
+      },
+      "radius" : 75
+    },
+    "localityName" : "Sutton",
+    "country" : "United Kingdom",
+    "longitude" : -0.2147974967956543,
+    "administrativeArea" : "England",
+    "placeName" : "2 Brocks Drive",
+    "latitude" : 51.376209259033203
+  },
+  "creationOSVersion" : "10.15.3",
+  "text" : "# John Hunt gauging me on \n\nJohn’s little inspiration for me to get me flying again\\.\n\nhttps:\/\/youtu.be\/MPMDPnaplro\n\nhttps:\/\/youtu\\.be\/MPMDPnaplro?t=700",
+  "creationDevice" : "Alex’s MacBook Air",
+  "creationOSName" : "macOS"
+},
+{
+  "timeZone" : "Europe\/London",
+  "creationDevice" : "Alex’s MacBook Air",
+  "text" : "# Altitude\n\nBack in July 2019 I researched [Flight Levels\\. ](dayone2:\/\/view?entryId=3230D38B60AF4D5A9165B41962308E8C)\nTurns out it wasn’t quite right Doofer911 had a much better explanation\n\nQFE \\- Field Elevation \\- height relative to your airfield \\- important for landings\nQNH \\- Nautical Height \\- height relative to Mean Sea Level or MSL \\- for longer flights \n\nBoth local\/ regional settings\\.\n\nAt the Transition altitude you revert to ‘Standard Pressure’ 1013 mb\\. Above Transition Altitude you say FL or Flight level\\. \n\nIF TA was 5000ft \\- \nFlight Level 150 = 150,000 ft\n\nThank you doofer911\n\nhttps:\/\/www.youtube.com\/watch?v=MiXsLhM4hfU&list=PLIcFBLShBix9fCYEgbgNRklbzarpOniQ0&index=11&t=0s",
+  "creationDate" : "2020-04-06T18:17:09Z",
+  "creationDeviceModel" : "MacBookAir7,2",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -0.2147974967956543,
+        "latitude" : 51.376209259033203
+      },
+      "radius" : 75
+    },
+    "localityName" : "Sutton",
+    "country" : "United Kingdom",
+    "longitude" : -0.2147974967956543,
+    "administrativeArea" : "England",
+    "placeName" : "2 Brocks Drive",
+    "latitude" : 51.376209259033203
+  },
+  "isAllDay" : false,
+  "creationOSVersion" : "10.15.3",
+  "weather" : {
+    "weatherServiceName" : "Forecast.io",
+    "windBearing" : 269,
+    "conditionsDescription" : "Mostly Cloudy",
+    "pressureMB" : 1022.7999877929688,
+    "visibilityKM" : 16.093000411987305,
+    "relativeHumidity" : 0,
+    "windSpeedKPH" : 11.220000267028809,
+    "weatherCode" : "partly-cloudy",
+    "temperatureCelsius" : 14.770000457763672
+  },
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Altitude\\n\"},{\"text\":\"\\n\",\"attributes\":{\"line\":{\"header\":0}}},{\"text\":\"Back in July 2019 I researched \",\"attributes\":{\"line\":{\"header\":0}}},{\"text\":\"Flight Levels. \",\"attributes\":{\"linkURL\":\"dayone2:\\\/\\\/view?entryId=3230D38B60AF4D5A9165B41962308E8C\",\"line\":{\"header\":0}}},{\"text\":\"\\n\",\"attributes\":{\"line\":{\"header\":0}}},{\"text\":\"Turns out it wasn’t quite right Doofer911 had a much better explanation\\n\",\"attributes\":{\"line\":{\"header\":0}}},{\"text\":\"\\n\",\"attributes\":{\"line\":{\"header\":0}}},{\"text\":\"QFE - Field Elevation - height relative to your airfield - important for landings\\n\",\"attributes\":{\"line\":{\"header\":0}}},{\"attributes\":{\"line\":{\"header\":0}},\"text\":\"QNH - Nautical Height - height relative to Mean Sea Level or MSL - for longer flights \\n\"},{\"attributes\":{\"line\":{\"header\":0}},\"text\":\"\\n\"},{\"text\":\"Both local\\\/ regional settings.\\n\",\"attributes\":{\"line\":{\"header\":0}}},{\"text\":\"\\n\",\"attributes\":{\"line\":{\"header\":0}}},{\"text\":\"At the Transition altitude you revert to ‘Standard Pressure’ 1013 mb. Above Transition Altitude you say FL or Flight level. \\n\",\"attributes\":{\"line\":{\"header\":0}}},{\"text\":\"\\n\",\"attributes\":{\"line\":{\"header\":0}}},{\"attributes\":{\"line\":{\"header\":0}},\"text\":\"IF TA was 5000ft - \\n\"},{\"attributes\":{\"line\":{\"header\":0}},\"text\":\"Flight Level 150 = 150,000 ft\\n\"},{\"attributes\":{\"line\":{\"header\":0}},\"text\":\"\\n\"},{\"text\":\"Thank you doofer911\",\"attributes\":{\"line\":{\"header\":0}}},{\"embeddedObjects\":[{\"type\":\"preview\",\"url\":\"https:\\\/\\\/www.youtube.com\\\/watch?v=MiXsLhM4hfU&list=PLIcFBLShBix9fCYEgbgNRklbzarpOniQ0&index=11&t=0s\"}]},{\"attributes\":{\"line\":{\"header\":0}},\"text\":\"\\n\"},{\"text\":\"\\n\"}],\"meta\":{\"created\":{\"version\":1164,\"platform\":\"com.bloombuilt.dayone-mac\"},\"small-lines-removed\":true,\"version\":1}}",
+  "uuid" : "DEEDAB93A0514552B33C50644136E0E5",
+  "starred" : false,
+  "modifiedDate" : "2021-01-02T18:00:29Z",
+  "editingTime" : 418.89652812480927,
+  "creationDeviceType" : "MacBook Air",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationOSName" : "macOS"
+},
+{
+  "creationDate" : "2020-05-08T12:38:45Z",
+  "uuid" : "9162F11A64EC4EF28696F5C2B3A37EF5",
+  "editingTime" : 108.34569907188416,
+  "isPinned" : false,
+  "isAllDay" : false,
+  "weather" : {
+    "weatherServiceName" : "Forecast.io",
+    "windBearing" : 180,
+    "conditionsDescription" : "Overcast",
+    "pressureMB" : 1018,
+    "visibilityKM" : 16.093000411987305,
+    "relativeHumidity" : 0,
+    "windSpeedKPH" : 5.9800000190734863,
+    "weatherCode" : "cloudy",
+    "temperatureCelsius" : 21.670000076293945
+  },
+  "creationDeviceModel" : "MacBookAir7,2",
+  "starred" : false,
+  "duration" : 0,
+  "richText" : "{\"contents\":[{\"text\":\"Time for simulation?\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"\\nMy ever favourite ‘Flying Reporter’ did a virtual fly-out with Plane Old Ben.\\n\\nVery glad I watch both their videos. It’s persuaded me that getting a simulator is a necessity. \\n\\nIf a real lesson costs £210 then by-gum you should practice it a few times before you jump in the cockpit.\\n\"},{\"embeddedObjects\":[{\"type\":\"preview\",\"url\":\"https:\\\/\\\/www.youtube.com\\\/watch?v=D1SSGWxtuL4\"}]},{\"attributes\":{\"autolink\":true},\"text\":\"https:\\\/\\\/www.youtube.com\\\/watch?v=D1SSGWxtuL4\"}],\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"version\":1174,\"platform\":\"com.bloombuilt.dayone-mac\"}}}",
+  "timeZone" : "Europe\/London",
+  "modifiedDate" : "2021-01-02T18:00:29Z",
+  "creationDeviceType" : "MacBook Air",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -0.2147974967956543,
+        "latitude" : 51.376209259033203
+      },
+      "radius" : 75
+    },
+    "localityName" : "Sutton",
+    "country" : "United Kingdom",
+    "longitude" : -0.2147974967956543,
+    "administrativeArea" : "England",
+    "placeName" : "2 Brocks Drive",
+    "latitude" : 51.376209259033203
+  },
+  "creationOSVersion" : "10.15.4",
+  "text" : "# Time for simulation?\n\nMy ever favourite ‘Flying Reporter’ did a virtual fly\\-out with Plane Old Ben\\.\n\nVery glad I watch both their videos\\. It’s persuaded me that getting a simulator is a necessity\\. \n\nIf a real lesson costs £210 then by\\-gum you should practice it a few times before you jump in the cockpit\\.\n\nhttps:\/\/www.youtube.com\/watch?v=D1SSGWxtuL4\n\nhttps:\/\/www\\.youtube\\.com\/watch?v=D1SSGWxtuL4",
+  "creationDevice" : "Alex’s MacBook Air",
+  "creationOSName" : "macOS"
+},
+{
+  "duration" : 0,
+  "creationDevice" : "Alex’s MacBook Air",
+  "richText" : "{\"contents\":[{\"text\":\"Sulking about flying \\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"I reached out to the famous Jon Hunt for some inspiration about flying.  The lockdown is starting to release and he managed a cheeky flight to Blackpool.\\n\\nHi Alex\\n\\nYou have to be flying at least once a month, in my opinion, to stay current and maintain your confidence.  I try to fly once or twice.  My cheaper shareoplane is in maintenance at the moment, and so it’s costing me more, and I did a long 3 hour round trip to Blackpool, and it wasn’t cheap, so I’ve spent as much as I wanted to for the month.  I probably spend between £300-600 a month on my flying usually.\\n\\nHope that helps\\n\\nJon\\n\\n\"},{\"attributes\":{\"line\":{\"header\":0,\"indentLevel\":1,\"quote\":true}},\"text\":\"On 29 May 2020, at 17:09, The Flying Reporter jonathan@jonhunt.net wrote:\\n\"},{\"text\":\"\\n\",\"attributes\":{\"line\":{\"quote\":true,\"header\":0,\"indentLevel\":1}}},{\"text\":\"From: Alex Oulton alexander.oulton@gmail.com\\n\",\"attributes\":{\"line\":{\"quote\":true,\"header\":0,\"indentLevel\":1}}},{\"attributes\":{\"line\":{\"header\":0,\"quote\":true,\"indentLevel\":1}},\"text\":\"Subject: how you plan the flying year?\\n\"},{\"attributes\":{\"line\":{\"quote\":true,\"indentLevel\":1,\"header\":0}},\"text\":\"\\n\"},{\"text\":\"Message Body:\\n\",\"attributes\":{\"line\":{\"header\":0,\"indentLevel\":1,\"quote\":true}}},{\"text\":\"Hi Jon, great to see you're up in the air and flying once more. I enjoyed your Blackpool flight video.\\n\",\"attributes\":{\"line\":{\"header\":0,\"quote\":true,\"indentLevel\":1}}},{\"text\":\"\\n\",\"attributes\":{\"line\":{\"indentLevel\":1,\"quote\":true,\"header\":0}}},{\"attributes\":{\"line\":{\"header\":0,\"indentLevel\":1,\"quote\":true}},\"text\":\"You must get bombed with questions so feel a little embarrassed to ask this.. but how do you 'budget' the flying year? . In a recent video you said the Blackpool flight 'used up the budget for this month' or something similar.  As a learner pilot ( just 6 hours in) the learning schedule for the next 40+ hours is clear but after qualification how do you map out your flying? There's a functional minimum for currency of course but then there must be planning for special events like flying somewhere further afield every 3 or 4 months or courses to extend your rating.  In very general terms I'm trying to build a picture how many hours per month or per quarter a pilot needs to be flying to be suitably 'in the game'. While grounded my motivation has faltered so I'm asking around for ideas and inspiration..\\n\"},{\"text\":\"\\n\",\"attributes\":{\"line\":{\"quote\":true,\"header\":0,\"indentLevel\":1}}},{\"attributes\":{\"line\":{\"indentLevel\":1,\"quote\":true,\"header\":0}},\"text\":\"thanks for any thoughts and thank you for producing some great (motivating\\\/inspiring ) GA Videos..\\n\"},{\"attributes\":{\"line\":{\"header\":0,\"indentLevel\":1,\"quote\":true}},\"text\":\"\\n\"},{\"attributes\":{\"line\":{\"quote\":true,\"header\":0,\"indentLevel\":1}},\"text\":\"Alex O.\"}],\"meta\":{\"small-lines-removed\":true,\"created\":{\"version\":1185,\"platform\":\"com.bloombuilt.dayone-mac\"},\"version\":1}}",
+  "starred" : false,
+  "creationOSVersion" : "10.15.4",
+  "text" : "# Sulking about flying \nI reached out to the famous Jon Hunt for some inspiration about flying\\.  The lockdown is starting to release and he managed a cheeky flight to Blackpool\\.\n\nHi Alex\n\nYou have to be flying at least once a month, in my opinion, to stay current and maintain your confidence\\.  I try to fly once or twice\\.  My cheaper shareoplane is in maintenance at the moment, and so it’s costing me more, and I did a long 3 hour round trip to Blackpool, and it wasn’t cheap, so I’ve spent as much as I wanted to for the month\\.  I probably spend between £300\\-600 a month on my flying usually\\.\n\nHope that helps\n\nJon\n\n> On 29 May 2020, at 17:09, The Flying Reporter jonathan@jonhunt\\.net wrote:\n> \n> From: Alex Oulton alexander\\.oulton@gmail\\.com\n> Subject: how you plan the flying year?\n> \n> Message Body:\n> Hi Jon, great to see you're up in the air and flying once more\\. I enjoyed your Blackpool flight video\\.\n> \n> You must get bombed with questions so feel a little embarrassed to ask this\\.\\. but how do you 'budget' the flying year? \\. In a recent video you said the Blackpool flight 'used up the budget for this month' or something similar\\.  As a learner pilot \\( just 6 hours in\\) the learning schedule for the next 40\\+ hours is clear but after qualification how do you map out your flying? There's a functional minimum for currency of course but then there must be planning for special events like flying somewhere further afield every 3 or 4 months or courses to extend your rating\\.  In very general terms I'm trying to build a picture how many hours per month or per quarter a pilot needs to be flying to be suitably 'in the game'\\. While grounded my motivation has faltered so I'm asking around for ideas and inspiration\\.\\.\n> \n> thanks for any thoughts and thank you for producing some great \\(motivating\/inspiring \\) GA Videos\\.\\.\n> \n> Alex O\\.",
+  "isPinned" : false,
+  "creationDeviceType" : "MacBook Air",
+  "timeZone" : "Europe\/London",
+  "creationOSName" : "macOS",
+  "weather" : {
+    "weatherServiceName" : "Forecast.io",
+    "windBearing" : 81,
+    "conditionsDescription" : "Clear",
+    "pressureMB" : 1022.0999755859375,
+    "visibilityKM" : 16.093000411987305,
+    "relativeHumidity" : 0,
+    "windSpeedKPH" : 18.489999771118164,
+    "weatherCode" : "clear",
+    "temperatureCelsius" : 21.649999618530273
+  },
+  "editingTime" : 79.425483822822571,
+  "isAllDay" : false,
+  "uuid" : "45AD0CEB67E04C63827627658C0EA7FD",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -0.2147974967956543,
+        "latitude" : 51.376209259033203
+      },
+      "radius" : 75
+    },
+    "localityName" : "Sutton",
+    "country" : "United Kingdom",
+    "longitude" : -0.2147974967956543,
+    "administrativeArea" : "England",
+    "placeName" : "2 Brocks Drive",
+    "latitude" : 51.376209259033203
+  },
+  "creationDate" : "2020-05-31T09:22:24Z",
+  "modifiedDate" : "2021-01-02T18:00:29Z",
+  "creationDeviceModel" : "MacBookAir7,2"
+},
+{
+  "uuid" : "69FE24CBE3CB48AEA6CE808006F6E0A2",
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 443
+  },
+  "editingTime" : 937.9693329334259,
+  "modifiedDate" : "2021-01-02T18:00:29Z",
+  "duration" : 0,
+  "text" : "# Ready for takeoff ?🛫\nMy mind and heart waxes and wanes about me learning to fly\\.  \n\nFlying will be a big chunk of my free time\\.  It will consume holidays, money and plenty of worry cycles for Noriko since flying is not without risk\\. \n\nFor the moments I say I won’t fly I ask myself why is it I keep watching GA videos? \n\n\nI’m not interested in starting any todo on even though the weather is pretty good\\.  Before any start I have to sort out the move from Brocks Drive to our new home\\- ideally Ivydale\\.  \n\n\n## Visualise what the future looks like\\. \n\nFlying will have an initial ​*learning phase*​ followed by a ​*maintaining currency*​ phase\\. \n\nI will have to commit huge time and effort to the learning phase\\.  There will be some short term goals, first take off, first landing and of course *first solo\\.* Later on bigger targets like first cross country solo\\.  \n\nI’ve promised my self to do this thing until at least first solo\\.  What happens then is up to me to choose what works for me at that moment\\.  Work, home and family all come first but if I’m trusting that I will have the capability and 余裕 よゆ",
+  "timeZone" : "Europe\/London",
+  "isPinned" : false,
+  "creationDevice" : "Alex’s iPhone",
+  "creationDeviceModel" : "iPhone10,2",
+  "richText" : "{\"meta\":{\"version\":1,\"created\":{\"version\":651,\"platform\":\"com.bloombuilt.dayone-ios\"},\"small-lines-removed\":true},\"contents\":[{\"text\":\"Ready for takeoff ?🛫\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"My mind and heart waxes and wanes about me learning to fly.  \\n\\nFlying will be a big chunk of my free time.  It will consume holidays, money and plenty of worry cycles for Noriko since flying is not without risk. \\n\\nFor the moments I say I won’t fly I ask myself why is it I keep watching GA videos? \\n\\n\\nI’m not interested in starting any todo on even though the weather is pretty good.  Before any start I have to sort out the move from Brocks Drive to our new home- ideally Ivydale.  \\n\\n\\n\"},{\"attributes\":{\"line\":{\"header\":2}},\"text\":\"Visualise what the future looks like. \\n\"},{\"attributes\":{\"line\":{\"header\":0}},\"text\":\"\\n\"},{\"text\":\"Flying will have an initial \",\"attributes\":{\"line\":{\"header\":0}}},{\"attributes\":{\"line\":{\"header\":0},\"italic\":true},\"text\":\"learning phase \"},{\"text\":\"followed by a \",\"attributes\":{\"line\":{\"header\":0}}},{\"text\":\"maintaining currency \",\"attributes\":{\"line\":{\"header\":0},\"italic\":true}},{\"text\":\"phase. \\n\",\"attributes\":{\"line\":{\"header\":0}}},{\"attributes\":{\"line\":{\"header\":0}},\"text\":\"\\n\"},{\"text\":\"I will have to commit huge time and effort to the learning phase.  There will be some short term goals, first take off, first landing and of course \",\"attributes\":{\"line\":{\"header\":0}}},{\"attributes\":{\"italic\":true,\"line\":{\"header\":0}},\"text\":\"first solo.\"},{\"text\":\" Later on bigger targets like first cross country solo.  \\n\",\"attributes\":{\"line\":{\"header\":0}}},{\"text\":\"\\n\",\"attributes\":{\"line\":{\"header\":0}}},{\"text\":\"I’ve promised my self to do this thing until at least first solo.  What happens then is up to me to choose what works for me at that moment.  Work, home and family all come first but if I’m trusting that I will have the capability and 余裕 よゆ\",\"attributes\":{\"line\":{\"header\":0}}}]}",
+  "creationOSName" : "iOS",
+  "isAllDay" : false,
+  "creationOSVersion" : "13.5.1",
+  "creationDate" : "2020-07-28T07:24:22Z",
+  "starred" : false,
+  "creationDeviceType" : "iPhone"
+},
+{
+  "duration" : 0,
+  "creationDevice" : "Alex’s MacBook Air",
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":715}},\"contents\":[{\"attributes\":{\"line\":{\"identifier\":\"7B5FBD82-33BB-4BA2-97C8-7D0D5284603E\",\"header\":1}},\"text\":\"Why Y or Q\\n\"},{\"text\":\"\\n\\nRandom trivia about flying.\\n\\n\"},{\"attributes\":{\"line\":{\"identifier\":\"62B7152F-0EC5-4172-90C0-8E0D0B2754DB\",\"header\":2}},\"text\":\"Q codes and why Y for all Canadian Airports\\n\"},{\"text\":\"\\nQFH and QNH are used very specifically in general aviation but evolved from the Q codes used in the morse code days. While the other ‘Q’ codes are drifting into obscurity these codes remain in use.\\n\\nReference: \\n\"},{\"attributes\":{\"line\":{\"listStyle\":\"bulleted\",\"indentLevel\":1,\"header\":0,\"identifier\":\"F27ED1C3-8C7A-4003-9900-0B67FC120333\"},\"autolink\":true},\"text\":\"https:\\\/\\\/en.wikipedia.org\\\/wiki\\\/Q_code\"},{\"attributes\":{\"line\":{\"listStyle\":\"bulleted\",\"indentLevel\":1,\"header\":0,\"identifier\":\"F27ED1C3-8C7A-4003-9900-0B67FC120333\"}},\"text\":\"\\n\"},{\"attributes\":{\"line\":{\"listStyle\":\"bulleted\",\"indentLevel\":1,\"header\":0,\"identifier\":\"D38D92B4-043D-45CE-8D3D-D07230207794\"},\"linkURL\":\"dayone2:\\\/\\\/view?entryId=DEEDAB93A0514552B33C50644136E0E5\"},\"text\":\"April 2019 notes on altitude\"},{\"attributes\":{\"line\":{\"listStyle\":\"bulleted\",\"indentLevel\":1,\"header\":0,\"identifier\":\"D38D92B4-043D-45CE-8D3D-D07230207794\"}},\"text\":\"\\n\"},{\"text\":\"\\n\\n\\n\\nSimplyFlying video explains why all Canadian airport codes start with Y\"},{\"embeddedObjects\":[{\"type\":\"preview\",\"url\":\"https:\\\/\\\/youtu.be\\\/s6IQKXC8R1Y\"}]},{\"attributes\":{\"autolink\":true},\"text\":\"https:\\\/\\\/youtu.be\\\/s6IQKXC8R1Y\"}]}",
+  "starred" : false,
+  "creationOSVersion" : "10.15.7",
+  "text" : "# Why Y or Q\n\n\nRandom trivia about flying\\.\n\n## Q codes and why Y for all Canadian Airports\n\nQFH and QNH are used very specifically in general aviation but evolved from the Q codes used in the morse code days\\. While the other ‘Q’ codes are drifting into obscurity these codes remain in use\\.\n\nReference: \n- https:\/\/en\\.wikipedia\\.org\/wiki\/Q\\_code\n- [April 2019 notes on altitude](dayone2:\/\/view?entryId=DEEDAB93A0514552B33C50644136E0E5)\n\n\n\n\nSimplyFlying video explains why all Canadian airport codes start with Y\n\nhttps:\/\/youtu.be\/s6IQKXC8R1Y\n\nhttps:\/\/youtu\\.be\/s6IQKXC8R1Y",
+  "isPinned" : false,
+  "creationDeviceType" : "MacBook Air",
+  "timeZone" : "Europe\/London",
+  "creationOSName" : "macOS",
+  "weather" : {
+    "sunsetDate" : "2020-12-13T15:51:53Z",
+    "temperatureCelsius" : 6,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 160,
+    "sunriseDate" : "2020-12-13T07:56:45Z",
+    "conditionsDescription" : "Drizzle",
+    "pressureMB" : 1004,
+    "visibilityKM" : 4,
+    "relativeHumidity" : 100,
+    "windSpeedKPH" : 33,
+    "weatherCode" : "rain",
+    "windChillCelsius" : 1.1000000238418579
+  },
+  "editingTime" : 239.57456088066101,
+  "isAllDay" : false,
+  "uuid" : "685B2E7A9E6641A89E33EB0B6C50D6D4",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -0.1631760448217392,
+        "latitude" : 51.3765869140625
+      },
+      "radius" : 75
+    },
+    "localityName" : "Carshalton",
+    "country" : "United Kingdom",
+    "timeZoneName" : "Europe\/London",
+    "administrativeArea" : "England",
+    "longitude" : -0.1631760448217392,
+    "placeName" : "8 Ivydale Road",
+    "latitude" : 51.3765869140625
+  },
+  "creationDate" : "2020-12-13T12:02:06Z",
+  "modifiedDate" : "2021-01-02T18:00:29Z",
+  "creationDeviceModel" : "MacBookAir7,2"
+},
+{
+  "duration" : 0,
+  "creationDevice" : "Alex’s iPhone",
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":728}},\"contents\":[{\"attributes\":{\"line\":{\"identifier\":\"94D30860-3508-4AE2-98B6-AD79397A3264\",\"header\":1}},\"text\":\"Instagram- something for everyone \\n\"},{\"attributes\":{\"line\":{\"identifier\":\"734A5FBD-8BEB-4ECD-9D27-DB866F706F1D\",\"header\":0}},\"text\":\"\\n\"},{\"attributes\":{\"line\":{\"identifier\":\"383ACE9E-F6A3-42FE-8CE6-F53EEC388F0C\",\"header\":0}},\"text\":\"\\n\"},{\"text\":\"Saw this on Instagram.  Incredible to think of the combined effort of so many people inputting data to things like Instagram such that no matter your interest the AI Algorithm will find something that catches your interest.  In my case slightly nerdy aviation stuffs \\n\\nQNH QFE\"},{\"embeddedObjects\":[{\"type\":\"photo\",\"identifier\":\"A0C6523998FB4605BE0C63B19A14F84D\"}]}]}",
+  "starred" : false,
+  "photos" : [
+    {
+      "fileSize" : 437667,
+      "orderInEntry" : 0,
+      "creationDevice" : "Alex’s iPhone",
+      "duration" : 0,
+      "favorite" : false,
+      "type" : "jpeg",
+      "filename" : "IMG_0090.PNG",
+      "identifier" : "A0C6523998FB4605BE0C63B19A14F84D",
+      "date" : "2021-03-26T09:52:47Z",
+      "height" : 1150,
+      "fnumber" : "(null)",
+      "width" : 1125,
+      "md5" : "001ac778a23dcc8fe4a6fc7d3de2c55e",
+      "isSketch" : false,
+      "focalLength" : "(null)"
+    }
+  ],
+  "creationOSVersion" : "14.4",
+  "text" : "# Instagram\\- something for everyone \n\n\nSaw this on Instagram\\.  Incredible to think of the combined effort of so many people inputting data to things like Instagram such that no matter your interest the AI Algorithm will find something that catches your interest\\.  In my case slightly nerdy aviation stuffs \n\nQNH QFE\n\n![](dayone-moment:\/\/A0C6523998FB4605BE0C63B19A14F84D)",
+  "creationDeviceType" : "iPhone",
+  "isPinned" : false,
+  "timeZone" : "Europe\/London",
+  "creationOSName" : "iOS",
+  "weather" : {
+    "sunsetDate" : "2021-03-26T18:22:59Z",
+    "temperatureCelsius" : 11,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 210,
+    "sunriseDate" : "2021-03-26T05:47:48Z",
+    "conditionsDescription" : "Mostly Cloudy",
+    "pressureMB" : 1010,
+    "visibilityKM" : 48.280200958251953,
+    "relativeHumidity" : 72,
+    "windSpeedKPH" : 26,
+    "weatherCode" : "mostly-cloudy",
+    "windChillCelsius" : 11.100000381469727
+  },
+  "editingTime" : 175.78652393817902,
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -0.16330763697624207,
+        "latitude" : 51.376670837402344
+      },
+      "radius" : 75
+    },
+    "localityName" : "Carshalton",
+    "country" : "United Kingdom",
+    "timeZoneName" : "Europe\/London",
+    "administrativeArea" : "England",
+    "longitude" : -0.16330763697624207,
+    "placeName" : "8 Ivydale Road",
+    "latitude" : 51.376670837402344
+  },
+  "uuid" : "4EFC4FBA6E98427884EA98758552AB42",
+  "isAllDay" : false,
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 156
+  },
+  "creationDate" : "2021-03-26T11:05:02Z",
+  "modifiedDate" : "2021-03-26T11:11:48Z",
+  "creationDeviceModel" : "iPhone10,2"
+},
+{
+  "isPinned" : false,
+  "text" : "# Flying unhappiness\n\nIt’s 5:30pm, I’ve just got home from my flying lesson\\. I’m feeling sick and tired\\. The flight was smooth but the whole experience has left me shaken and uncertain\\.\n\n# TL:DR \\- what happens next \nThere’s a 60% chance I will give up now\\. There is a 40% chance I might have a second flight in the PA28\\. It’s a bigger aircraft, it’s a little easier to drive on the ground\\. I’ve had some positive moments flying this in the past\\. \n\n## eh, so what happened?\nThe instructor Jim couldn’t have been more friendly or professional\\. He totally knew his stuff\\. Although at 72, and having become a pilot at 24 and an instructor at 29 this is how it should be\\. :\\-\\)\n\n# <brain dump>\nwalked out to the aircraft Golf Bravo X\\-ray Papa Delta is a Diamond DA20 \\- two seater\\.\n\nbit of a faff to papa\\-delta out of the hanger\nyou can push an aircraft single handed\\.\nJim  executed the pre flight checks quickly but without me \\- that’s fine at this early stage\nengines started first time \\- don’t know why I somehow thought it would be trouble\n\nEngine started taxied out to \nafter we started rolling Jim handed driving to me\\.\\. from GOLF3 to GOLF1 for departure on 08\\.\n\nHeld up for a while waiting for someone to land\\.\nFor Take Off my job was rudder and hold the centre line which I did somewhat badly\\.\n\nWe took off and turned right\\.\n\nwe soon got north and asked Heathrow for permission to enter CTA\\.\nTold to squawk 7031\\.\n\nWe flew towards Sutton and I could see St Hellier’s hospital \nwe flew to the left of Croydon\nI could see the building of Sutton town centre clearly\\.\nCouldn’t affirmatively see Ivydale or Carshalton Ponds\nCould see the Mosque at Morden\\.\n\nWe then flew south east towards Kent\n\nWe did some practice tuns\n\nwe flew home\n\nwe joined the pattern from the North East\\. I flew the aircraft to to Final\\. \nI kept control lining up for the run way until the last moment\\.\n\nThe exciting moment of landing\\.\\.  didn’t give me a tingle that I was hoping for\\. I was pleased to be back on the ground\\.\n\nIt was wonderful to see the world from the sky\\.\nThe prison, Croydon, The city of london , dartford bridge, tailback of traffic for 5 or 6 miles\\. \n\nThe flying experience it self was stressful\\. \nI felt nauseous for much of the flight and at time I felt a little sick\\.\n\nFlying back to the airstrip there were a few other aircraft \\- it felt good to spot them manoeuvring\\. \n\nThe radio traffic was overwhelming\\. \n- this was meant to be the fun bit \\- big boys club using secret codes on the radio\\.\n- actually it was stressful and I often missed the callouts for Golf Papa Delta \n- focusing on the flying bit meant I had no capacity to think about the radio\n\n\n\nIt did look like he was navigating using Google Maps on his phone\\. It was a VFR flight over SE London and I’m sure he’s flown this hundreds of time before\\. I guess he was using the phone for precision flying\\. \n\nJim Stevens was instructing me\\. A very competent pilot of many  my instructor\\. \n\n<\/brain dump>",
+  "editingTime" : 1216.3575459718704,
+  "creationDeviceType" : "MacBook Air",
+  "isAllDay" : false,
+  "creationDeviceModel" : "MacBookAir7,2",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -0.16318520903587341,
+        "latitude" : 51.376605987548828
+      },
+      "radius" : 75
+    },
+    "localityName" : "Carshalton",
+    "country" : "United Kingdom",
+    "timeZoneName" : "Europe\/London",
+    "administrativeArea" : "England",
+    "longitude" : -0.16318520903587341,
+    "placeName" : "Ivydale Road",
+    "latitude" : 51.376605987548828
+  },
+  "timeZone" : "Europe\/London",
+  "creationOSName" : "macOS",
+  "creationDate" : "2021-07-22T16:25:48Z",
+  "tags" : [
+    "LTF"
+  ],
+  "duration" : 0,
+  "uuid" : "FBC0485D40784DF5936CE96247C566F5",
+  "creationOSVersion" : "11.1",
+  "modifiedDate" : "2021-07-24T13:02:22Z",
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":791}},\"contents\":[{\"attributes\":{\"line\":{\"identifier\":\"8BB466C0-4926-4B64-AAF2-B05081C37138\",\"header\":1}},\"text\":\"Flying unhappiness\\n\"},{\"text\":\"\\nIt’s 5:30pm, I’ve just got home from my flying lesson. I’m feeling sick and tired. The flight was smooth but the whole experience has left me shaken and uncertain.\\n\\n\"},{\"attributes\":{\"line\":{\"identifier\":\"7FAF886B-8D61-4522-A1D7-7C0256007153\",\"header\":1}},\"text\":\"TL:DR - what happens next \\n\"},{\"text\":\"There’s a 60% chance I will give up now. There is a 40% chance I might have a second flight in the PA28. It’s a bigger aircraft, it’s a little easier to drive on the ground. I’ve had some positive moments flying this in the past. \\n\\n\"},{\"attributes\":{\"line\":{\"identifier\":\"4889229B-184C-4254-A9E9-82E600ED8C93\",\"header\":2}},\"text\":\"eh, so what happened?\\n\"},{\"text\":\"The instructor Jim couldn’t have been more friendly or professional. He totally knew his stuff. Although at 72, and having become a pilot at 24 and an instructor at 29 this is how it should be. :-)\\n\\n\"},{\"attributes\":{\"line\":{\"identifier\":\"28830680-AC06-48D7-B02B-B27BA5D039B2\",\"header\":1}},\"text\":\"<brain dump>\\n\"},{\"text\":\"walked out to the aircraft Golf Bravo X-ray Papa Delta is a Diamond DA20 - two seater.\\n\\nbit of a faff to papa-delta out of the hanger\\nyou can push an aircraft single handed.\\nJim  executed the pre flight checks quickly but without me - that’s fine at this early stage\\nengines started first time - don’t know why I somehow thought it would be trouble\\n\\nEngine started taxied out to \\nafter we started rolling Jim handed driving to me.. from GOLF3 to GOLF1 for departure on 08.\\n\\nHeld up for a while waiting for someone to land.\\nFor Take Off my job was rudder and hold the centre line which I did somewhat badly.\\n\\nWe took off and turned right.\\n\\nwe soon got north and asked Heathrow for permission to enter CTA.\\nTold to squawk 7031.\\n\\nWe flew towards Sutton and I could see St Hellier’s hospital \\nwe flew to the left of Croydon\\nI could see the building of Sutton town centre clearly.\\nCouldn’t affirmatively see Ivydale or Carshalton Ponds\\nCould see the Mosque at Morden.\\n\\nWe then flew south east towards Kent\\n\\nWe did some practice tuns\\n\\nwe flew home\\n\\nwe joined the pattern from the North East. I flew the aircraft to to Final. \\nI kept control lining up for the run way until the last moment.\\n\\nThe exciting moment of landing..  didn’t give me a tingle that I was hoping for. I was pleased to be back on the ground.\\n\\nIt was wonderful to see the world from the sky.\\nThe prison, Croydon, The city of london , dartford bridge, tailback of traffic for 5 or 6 miles. \\n\\nThe flying experience it self was stressful. \\nI felt nauseous for much of the flight and at time I felt a little sick.\\n\\nFlying back to the airstrip there were a few other aircraft - it felt good to spot them manoeuvring. \\n\\nThe radio traffic was overwhelming. \\n\"},{\"attributes\":{\"line\":{\"listStyle\":\"bulleted\",\"indentLevel\":1,\"header\":0,\"identifier\":\"167934AC-704D-4C02-9730-C4BF2EBC296D\"}},\"text\":\"this was meant to be the fun bit - big boys club using secret codes on the radio.\\n\"},{\"attributes\":{\"line\":{\"listStyle\":\"bulleted\",\"indentLevel\":1,\"header\":0,\"identifier\":\"DDF266B2-AD27-4030-AEAE-2457D3BF1D90\"}},\"text\":\"actually it was stressful and I often missed the callouts for Golf Papa Delta \\n\"},{\"attributes\":{\"line\":{\"listStyle\":\"bulleted\",\"indentLevel\":1,\"header\":0,\"identifier\":\"8AC4C63E-0154-4CB6-8F0A-2664B14091F5\"}},\"text\":\"focusing on the flying bit meant I had no capacity to think about the radio\\n\"},{\"text\":\"\\n\\n\\nIt did look like he was navigating using Google Maps on his phone. It was a VFR flight over SE London and I’m sure he’s flown this hundreds of time before. I guess he was using the phone for precision flying. \\n\\nJim Stevens was instructing me. A very competent pilot of many  my instructor. \\n\\n\"},{\"attributes\":{\"line\":{\"identifier\":\"4F7DCE5C-8D2A-4A46-B040-42C04385EAA1\",\"header\":0}},\"text\":\"<\\\/brain dump>\"}]}",
+  "creationDevice" : "Alex’s MacBook Air",
+  "starred" : false
+},
+{
+  "timeZone" : "Europe\/London",
+  "starred" : false,
+  "creationDevice" : "Alex’s iPhone",
+  "creationOSVersion" : "14.6",
+  "creationDeviceModel" : "iPhone10,2",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -0.16321133077144623,
+        "latitude" : 51.376560211181641
+      },
+      "radius" : 75
+    },
+    "localityName" : "Carshalton",
+    "country" : "United Kingdom",
+    "timeZoneName" : "Europe\/London",
+    "administrativeArea" : "England",
+    "longitude" : -0.16321133077144623,
+    "placeName" : "8 Ivydale Road",
+    "latitude" : 51.376560211181641
+  },
+  "modifiedDate" : "2021-07-28T11:29:23Z",
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":791}},\"contents\":[{\"attributes\":{\"line\":{\"identifier\":\"3D66E51D-7D8C-426C-A6F1-3892526C7DB9\",\"header\":1}},\"text\":\"Don’t give up\\n\"},{\"text\":\"\\nSo, I got nauseous on my last flight.  But hundreds of other people make small aircraft flights with getting ill.  So is this some sort of familiarity barrier I need to break through?\\n\\n\\nDon’t give up on this dream just yet. \\n\\nDo £1000 worth of lessons and see how you feel then.  \\n\\nIt’s got to be fun at some point soon.  \"}]}",
+  "creationDate" : "2021-07-28T11:00:52Z",
+  "isPinned" : false,
+  "creationDeviceType" : "iPhone",
+  "uuid" : "50781CB173D3432781322CC56D69280C",
+  "editingTime" : 149.78788197040558,
+  "text" : "# Don’t give up\n\nSo, I got nauseous on my last flight\\.  But hundreds of other people make small aircraft flights with getting ill\\.  So is this some sort of familiarity barrier I need to break through?\n\n\nDon’t give up on this dream just yet\\. \n\nDo £1000 worth of lessons and see how you feel then\\.  \n\nIt’s got to be fun at some point soon\\. ",
+  "tags" : [
+    "LTF"
+  ],
+  "duration" : 0,
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 1797
+  },
+  "weather" : {
+    "sunsetDate" : "2021-07-28T19:54:26Z",
+    "temperatureCelsius" : 20,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 240,
+    "sunriseDate" : "2021-07-28T04:18:12Z",
+    "conditionsDescription" : "Partly Cloudy",
+    "pressureMB" : 1007,
+    "visibilityKM" : 48.280200958251953,
+    "relativeHumidity" : 60,
+    "windSpeedKPH" : 22,
+    "weatherCode" : "partly-cloudy",
+    "windChillCelsius" : 20
+  },
+  "isAllDay" : false,
+  "creationOSName" : "iOS"
+},
+{
+  "timeZone" : "Europe\/London",
+  "starred" : false,
+  "creationDevice" : "Alex’s iPhone",
+  "creationOSVersion" : "14.6",
+  "creationDeviceModel" : "iPhone10,2",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -0.16471470892429352,
+        "latitude" : 51.52264404296875
+      },
+      "radius" : 75
+    },
+    "localityName" : "London",
+    "country" : "United Kingdom",
+    "timeZoneName" : "Europe\/London",
+    "administrativeArea" : "England",
+    "longitude" : -0.16471470892429352,
+    "placeName" : "1 Hayes Pl",
+    "latitude" : 51.52264404296875
+  },
+  "uuid" : "4F957343D6BB4159909860157E2A185C",
+  "isPinned" : false,
+  "creationDate" : "2021-07-30T11:41:23Z",
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":791}},\"contents\":[{\"attributes\":{\"line\":{\"identifier\":\"A353214F-0023-4BD5-912A-189242CB77DB\",\"header\":1}},\"text\":\"Do I buy a PC flight simulator \\n\"},{\"text\":\"\\nNot yet is the answer.  \\n\\nFundamentals like not pushing the stick forward while taxiing must be learnt for real.  \\n\\n\\nJoining circuits and radio work could be done in a sim and could be good\"}]}",
+  "creationDeviceType" : "iPhone",
+  "modifiedDate" : "2021-07-30T11:43:24Z",
+  "editingTime" : 115.74261701107025,
+  "text" : "# Do I buy a PC flight simulator \n\nNot yet is the answer\\.  \n\nFundamentals like not pushing the stick forward while taxiing must be learnt for real\\.  \n\n\nJoining circuits and radio work could be done in a sim and could be good",
+  "duration" : 0,
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 2011
+  },
+  "weather" : {
+    "sunsetDate" : "2021-07-30T19:51:21Z",
+    "temperatureCelsius" : 18,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 180,
+    "sunriseDate" : "2021-07-30T04:21:09Z",
+    "conditionsDescription" : "Mostly Cloudy",
+    "pressureMB" : 1000,
+    "visibilityKM" : 48.280200958251953,
+    "relativeHumidity" : 73,
+    "windSpeedKPH" : 24,
+    "weatherCode" : "mostly-cloudy",
+    "windChillCelsius" : 17.799999237060547
+  },
+  "isAllDay" : false,
+  "creationOSName" : "iOS"
+},
+{
+  "isPinned" : false,
+  "text" : "# Here’s what I’m thinking about flying \\- today\n\nSo, last flight was a disaster\\.  Now, some days later the idea of flying is creeping back into my head\\.\n\n> \\(is it really, do you dream of taking off? the thrill of lining up correctly to land?\\) ~ not sure I think so?\n\nSo the last flight did not kill off the idea of me flying\\. As long as it’s not dead dead and not coming back there will be a lingering thought that I should do push on and find my flying life\\.  \n\nI’ve said before that I should make my decision at first solo\\. That I should push past this short term pain point\\.  Having got landings and take\\-offs done,  at that point I could honourably stop and say YES I’ve done it\\.  Equally if during the challenge I could say STOP\\- no more forever I’m done then that’s where we end this journey\\.\n\nPut differently I’m willing to spend a few thousand pounds to see if flying a plane is a dream I can make reality \n\n\n\n![](dayone-moment:\/\/4A3B76A977674B96B9AA0590934FA2C0)",
+  "editingTime" : 354.28303694725037,
+  "creationDeviceType" : "MacBook Air",
+  "isAllDay" : false,
+  "photos" : [
+    {
+      "fileSize" : 53937,
+      "orderInEntry" : 0,
+      "creationDevice" : "Alex’s MacBook Air",
+      "duration" : 0,
+      "favorite" : false,
+      "type" : "png",
+      "identifier" : "4A3B76A977674B96B9AA0590934FA2C0",
+      "date" : "2021-08-01T11:21:32Z",
+      "height" : 488,
+      "fnumber" : "(null)",
+      "width" : 551,
+      "md5" : "06b1c09252fe05f601e6ad1c96fcde60",
+      "isSketch" : false,
+      "focalLength" : "(null)"
+    }
+  ],
+  "creationDeviceModel" : "MacBookAir7,2",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -0.16321296989917755,
+        "latitude" : 51.376556396484375
+      },
+      "radius" : 75
+    },
+    "localityName" : "Carshalton",
+    "country" : "United Kingdom",
+    "timeZoneName" : "Europe\/London",
+    "administrativeArea" : "England",
+    "longitude" : -0.16321296989917755,
+    "placeName" : "8 Ivydale Road",
+    "latitude" : 51.376556396484375
+  },
+  "timeZone" : "Europe\/London",
+  "creationOSName" : "macOS",
+  "creationDate" : "2021-08-01T11:21:32Z",
+  "duration" : 0,
+  "weather" : {
+    "sunsetDate" : "2021-08-01T19:48:08Z",
+    "temperatureCelsius" : 18,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 270,
+    "sunriseDate" : "2021-08-01T04:24:08Z",
+    "conditionsDescription" : "Mostly Cloudy",
+    "pressureMB" : 1011,
+    "visibilityKM" : 48.280200958251953,
+    "relativeHumidity" : 73,
+    "windSpeedKPH" : 7,
+    "weatherCode" : "mostly-cloudy",
+    "windChillCelsius" : 17.799999237060547
+  },
+  "uuid" : "9ADAC03A89874BC1A81CC86EED9A19D4",
+  "creationOSVersion" : "11.1",
+  "modifiedDate" : "2021-08-01T11:22:42Z",
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1300}},\"contents\":[{\"attributes\":{\"line\":{\"identifier\":\"357E45EE-9EBA-4947-8A4F-8F23C72600A1\",\"header\":1}},\"text\":\"Here’s what I’m thinking about flying - today\\n\"},{\"text\":\"\\nSo, last flight was a disaster.  Now, some days later the idea of flying is creeping back into my head.\\n\\n\"},{\"attributes\":{\"line\":{\"indentLevel\":1,\"header\":0,\"quote\":true,\"identifier\":\"1712754D-BC58-4D9C-8B85-963C626E7982\"}},\"text\":\"(is it really, do you dream of taking off? the thrill of lining up correctly to land?) ~ not sure I think so?\\n\"},{\"text\":\"\\nSo the last flight did not kill off the idea of me flying. As long as it’s not dead dead and not coming back there will be a lingering thought that I should do push on and find my flying life.  \\n\\nI’ve said before that I should make my decision at first solo. That I should push past this short term pain point.  Having got landings and take-offs done,  at that point I could honourably stop and say YES I’ve done it.  Equally if during the challenge I could say STOP- no more forever I’m done then that’s where we end this journey.\\n\\nPut differently I’m willing to spend a few thousand pounds to see if flying a plane is a dream I can make reality \\n\\n\\n\"},{\"embeddedObjects\":[{\"type\":\"photo\",\"identifier\":\"4A3B76A977674B96B9AA0590934FA2C0\"}]}]}",
+  "creationDevice" : "Alex’s MacBook Air",
+  "starred" : false
+}
+]}
